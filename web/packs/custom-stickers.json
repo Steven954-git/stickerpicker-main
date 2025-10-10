@@ -58,6 +58,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:3c70f3819b2a98b243f9d40f627a112d3dcbdd02d4e678e44474b477d563f59d"
+        },
+        {
+            "body": "3rd assault brigade",
+            "url": "mxc://matrix-stg.ranok.cc/TgQOmohpITOPPTDdeNHKjMit",
+            "info": {
+                "w": 320,
+                "h": 150,
+                "size": 6160,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/TgQOmohpITOPPTDdeNHKjMit",
+                "thumbnail_info": {
+                    "w": 150,
+                    "h": 150,
+                    "size": 6160,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:3c70f3819b2a98b243f9d40f627a112d3dcbdd02d4e678e44474b477d563f59d"
+        },
+        {
+            "body": "Batko Nash Bandera",
+            "url": "mxc://matrix-stg.ranok.cc/BCMqMJHDBPcQuNXKyNeGZtiN",
+            "info": {
+                "w": 320,
+                "h": 160,
+                "size": 7793,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/BCMqMJHDBPcQuNXKyNeGZtiN",
+                "thumbnail_info": {
+                    "w": 320,
+                    "h": 160,
+                    "size": 7793,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:3c70f3819b2a98b243f9d40f627a112d3dcbdd02d4e678e44474b477d563f59d"
         }
 
 
