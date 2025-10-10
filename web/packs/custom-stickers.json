@@ -39,6 +39,30 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:3c70f3819b2a98b243f9d40f627a112d3dcbdd02d4e678e44474b477d563f59d"
+        },
+        {
+            "body": "Drive",
+            "url": "mxc://matrix-stg.ranok.cc/kKOLYFSJCwwnCTXnMuwWvtDQ",
+            "info": {
+                "w": 259,
+                "h": 144,
+                "size": 86502,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/kKOLYFSJCwwnCTXnMuwWvtDQ",
+                "thumbnail_info": {
+                    "w": 259,
+                    "h": 144,
+                    "size": 86502,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:3c70f3819b2a98b243f9d40f627a112d3dcbdd02d4e678e44474b477d563f59d"
         }
+
+
+
+
     ]
 }
+
