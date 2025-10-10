@@ -4,13 +4,13 @@
     "stickers": [
         {
             "body": "Catalina",
-            "url": "mxc://audax.town/MiyUQKhqkypkUUBvFayPmRJV",
+            "url": "mxc://matrix-stg.ranok.cc/CWInsFXeFetgvuEVxugOeTTf",
             "info": {
                 "w": 170,
                 "h": 256,
                 "size": 224565,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://audax.town/MiyUQKhqkypkUUBvFayPmRJV",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/CWInsFXeFetgvuEVxugOeTTf",
                 "thumbnail_info": {
                     "w": 170,
                     "h": 256,
@@ -23,13 +23,13 @@
         },
         {
             "body": "Drive",
-            "url": "mxc://audax.town/TARZvKscSJYyIlHtoHXyvOJt",
+            "url": "mmxc://matrix-stg.ranok.cc/AtadfYGpNIEjKshenfECmqlR",
             "info": {
                 "w": 256,
                 "h": 144,
                 "size": 324807,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://audax.town/TARZvKscSJYyIlHtoHXyvOJt",
+                "thumbnail_url": "mmxc://matrix-stg.ranok.cc/AtadfYGpNIEjKshenfECmqlR",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 144,
