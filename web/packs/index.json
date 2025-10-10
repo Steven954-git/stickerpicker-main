@@ -1,7 +1,7 @@
 {
   "packs": [
     "3rd-ab.json",
-    "ukraine.json"
+    "pariot.json"
   ],
   "homeserver_url": "https://matrix.audax.town"
 }
