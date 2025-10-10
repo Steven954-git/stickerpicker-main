@@ -43,13 +43,13 @@
         },
         {
             "body": "Andriy Biletsky 01",
-            "url": "mxc://matrix-stg.ranok.cc/tfcSriNPvbyItCTsHdWfOozf",
+            "url": "mxc://matrix-stg.ranok.cc/XyNAjpCdSpnSPOIKmkhzmjjV",
             "info": {
                 "w": 350,
                 "h": 350,
                 "size": 135910,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix-stg.ranok.cc/tfcSriNPvbyItCTsHdWfOozf",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/XyNAjpCdSpnSPOIKmkhzmjjV",
                 "thumbnail_info": {
                     "w": 350,
                     "h": 350,
@@ -87,4 +87,3 @@
 
     ]
 }
-
