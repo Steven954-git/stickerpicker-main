@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "CatPusheen.json",
+    "custom-stickers.json"
+  ],
+  "homeserver_url": "https://matrix.audax.town"
+}
