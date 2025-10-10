@@ -1,0 +1,27 @@
+{
+    "title": "Україна",
+    "id": "custom-stickers",
+    "stickers": [
+        {
+            "body": "Batko Nash Bandera",
+            "url": "mxc://matrix-stg.ranok.cc/kKOLYFSJCwwnCTXnMuwWvtDQ",
+            "info": {
+                "w": 259,
+                "h": 259,
+                "size": 86502,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/kKOLYFSJCwwnCTXnMuwWvtDQ",
+                "thumbnail_info": {
+                    "w": 259,
+                    "h": 259,
+                    "size": 86502,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:393afc142e7413ad6d415af508fdde12d6ba7df7a8a43374684ae0399473163d"
+        }
+
+    ]
+}
+
