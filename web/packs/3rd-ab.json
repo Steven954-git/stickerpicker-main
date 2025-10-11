@@ -62,28 +62,25 @@
         },
         {
             "body": "Andriy Biletsky 02",
-            "url": "mxc://matrix-stg.ranok.cc/ohLUcedheUviTZpyhUTpdAsB",
+            "url": "mxc://matrix-stg.ranok.cc/hFIqyPrnsNknqNVPbaMTMATI",
             "info": {
                 "w": 256,
                 "h": 256,
                 "size": 814328,
                 "mimetype": "image/gif",
-                "org.matrix.msc4230.is_animated": true,
-                "thumbnail_url": "mxc://matrix-stg.ranok.cc/ohLUcedheUviTZpyhUTpdAsB",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/hFIqyPrnsNknqNVPbaMTMATI",
                 "thumbnail_info": {
                     "w": 256,
                     "h": 256,
                     "size": 814328,
-                    "mimetype": "image/gif",
-                    "org.matrix.msc4230.is_animated": true
-                }
+                    "mimetype": "image/gif"                }
             },
             "msgtype": "m.sticker",
             "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
         }
 
 
-
+mxc://matrix-stg.ranok.cc/
 
     ]
 }

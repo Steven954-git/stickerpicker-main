@@ -59,7 +59,7 @@ class App extends Component {
 			theme: localStorage.mauStickerThemeOverride || this.defaultTheme,
 			frequentlyUsed: {
 				id: "frequently-used",
-				title: "Frequently used",
+				title: "Часто використовується",
 				stickerIDs: frequent.get(),
 				stickers: [],
 			},
@@ -292,7 +292,7 @@ class App extends Component {
 			`
 		} else if (this.state.packs.length === 0) {
 			return html`
-				<main class="empty ${theme}"><h1>No packs found 😿</h1></main>
+				<main class="empty ${theme}"><h1>No packs found</h1></main>
 			`
 		}
 
@@ -322,7 +322,7 @@ class App extends Component {
 					<${SearchBox} onInput=${this.searchStickers} value=${this.state.filtering.searchTerm ?? ""}/>
 					<div class="pack-list ${isMobileSafari ? "ios-safari-hack" : ""}" ref=${(elem) => (this.packListRef = elem)}>
 						${filterActive && packs.length === 0
-							? html`<div class="search-empty"><h1>No stickers match your search</h1></div>`
+							? html`<div class="search-empty"><h1>Нічого не знайдено</h1></div>`
 							: null}
 						${packs.map((pack) => html`<${Pack} id=${pack.id} pack=${pack} send=${this.sendSticker}/>`)}
 						<${Settings} app=${this}/>
@@ -344,7 +344,7 @@ const Settings = ({app}) => html`
 					onInput=${evt => app.setStickersPerRow(evt.target.value)}/>
 			</div>
 			<div>
-				<label for="theme">Theme: </label>
+				<label for="theme">Тема: </label>
 				<select name="theme" id="theme" onChange=${evt => app.setTheme(evt.target.value)}>
 					<option value="default">Default</option>
 					<option value="light">Light</option>
