@@ -78,6 +78,45 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
+        },
+        {
+            "body": "Andriy Biletsky 02",
+            "url": "mxc://matrix-stg.ranok.cc/HPIeMnfbOKPZYugEiFNrOTaa",
+            "info": {
+                "w": 350,
+                "h": 350,
+                "size": 16721,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/HPIeMnfbOKPZYugEiFNrOTaa",
+                "thumbnail_info": {
+                    "w": 350,
+                    "h": 350,
+                    "size": 16721,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
+        },
+        {
+            "body": "Andriy Biletsky 02",
+            "url": "mxc://matrix-stg.ranok.cc/yQiguUXBThuzTBkdxZTVeBUl",
+            "info": {
+                "w": 640,
+                "h": 360,
+                "size": 16721,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix-stg.ranok.cc/yQiguUXBThuzTBkdxZTVeBUl",
+                "thumbnail_info": {
+                    "w": 640,
+                    "h": 360,
+                    "size": 16721,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
         }
+        
     ]
 }
