@@ -286,13 +286,13 @@ class App extends Component {
 		} else if (this.state.error) {
 			return html`
 				<main class="error ${theme}">
-					<h1>Failed to load packs</h1>
+					<h1>Не вдалося завантажити</h1>
 					<p>${this.state.error}</p>
 				</main>
 			`
 		} else if (this.state.packs.length === 0) {
 			return html`
-				<main class="empty ${theme}"><h1>No packs found</h1></main>
+				<main class="empty ${theme}"></main>
 			`
 		}
 
@@ -336,7 +336,7 @@ const Settings = ({app}) => html`
 	<section class="stickerpack settings" id="pack-settings" data-pack-id="settings">
 		<h1>Налаштування</h1>
 		<div class="settings-list">
-			<button onClick=${app.reloadPacks}>Reload</button>
+			<button onClick=${app.reloadPacks}>Перезавантажити</button>
 			<div>
 				<label for="stickers-per-row">Наліпок у рядку: ${app.state.stickersPerRow}</label>
 				<input type="range" min=2 max=10 id="stickers-per-row" id="stickers-per-row"
