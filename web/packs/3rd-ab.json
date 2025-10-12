@@ -96,7 +96,7 @@
                 }
             },
             "msgtype": "m.sticker",
-            "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
+            "id": "sha256:921a2e48c950a2b6fb92aadcf95f80c56f2d28f9699e4d9f48a992b330b9c531"
         },
         {
             "body": "Boom 01",
@@ -115,7 +115,7 @@
                 }
             },
             "msgtype": "m.sticker",
-            "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
+            "id": "sha256:a056f6a5f5b12646c68a977539e1108b1fe2418f175571d4404c898ff13a8d2d"
         }
         
     ]
