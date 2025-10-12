@@ -313,7 +313,7 @@ class App extends Component {
 					`}
 					<${NavBarItem} pack=${this.state.frequentlyUsed} iconOverride="recent" onClickOverride=${onClickOverride}/>
 					${this.state.packs.map(pack => html`<${NavBarItem} id=${pack.id} pack=${pack} onClickOverride=${onClickOverride}/>`)}
-					<${NavBarItem} pack=${{id: "settings", title: "Settings"}} iconOverride="settings" onClickOverride=${onClickOverride}/>
+					<${NavBarItem} pack=${{id: "settings", title: "Налаштування"}} iconOverride="settings" onClickOverride=${onClickOverride}/>
 				</nav>
 
 				${this.state.viewingGifs ? html`
@@ -334,11 +334,11 @@ class App extends Component {
 
 const Settings = ({app}) => html`
 	<section class="stickerpack settings" id="pack-settings" data-pack-id="settings">
-		<h1>Settings</h1>
+		<h1>Налаштування</h1>
 		<div class="settings-list">
 			<button onClick=${app.reloadPacks}>Reload</button>
 			<div>
-				<label for="stickers-per-row">Stickers per row: ${app.state.stickersPerRow}</label>
+				<label for="stickers-per-row">Наліпок у рядку: ${app.state.stickersPerRow}</label>
 				<input type="range" min=2 max=10 id="stickers-per-row" id="stickers-per-row"
 					value=${app.state.stickersPerRow}
 					onInput=${evt => app.setStickersPerRow(evt.target.value)}/>
@@ -346,10 +346,10 @@ const Settings = ({app}) => html`
 			<div>
 				<label for="theme">Тема: </label>
 				<select name="theme" id="theme" onChange=${evt => app.setTheme(evt.target.value)}>
-					<option value="default">Default</option>
-					<option value="light">Light</option>
-					<option value="dark">Dark</option>
-					<option value="black">Black</option>
+					<option value="default">За замовчуванням</option>
+					<option value="light">Світла</option>
+					<option value="dark">Темна</option>
+					<option value="black">Чорна</option>
 				</select>
 			</div>
 		</div>
