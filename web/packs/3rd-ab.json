@@ -59,63 +59,6 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:1aa1ab5bf43c6cca40bc6b8178c7b8f6a120836b3f4b166c07e3011b76a7fcaf"
-        },
-        {
-            "body": "Andriy Biletsky 02",
-            "url": "mxc://matrix-stg.ranok.cc/hFIqyPrnsNknqNVPbaMTMATI",
-            "info": {
-                "w": 253,
-                "h": 253,
-                "size": 814328,
-                "mimetype": "image/gif",
-                "thumbnail_url": "mxc://matrix-stg.ranok.cc/hFIqyPrnsNknqNVPbaMTMATI",
-                "thumbnail_info": {
-                    "w": 253,
-                    "h": 253,
-                    "size": 814328,
-                    "mimetype": "image/gif"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:5efdb36a70deaa42e3b5f59fddb012040839345a10a94e052d2ada7a7e87c843"
-        },
-        {
-            "body": "3rd corps 01",
-            "url": "mxc://matrix-stg.ranok.cc/HPIeMnfbOKPZYugEiFNrOTaa",
-            "info": {
-                "w": 350,
-                "h": 350,
-                "size": 16721,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix-stg.ranok.cc/HPIeMnfbOKPZYugEiFNrOTaa",
-                "thumbnail_info": {
-                    "w": 350,
-                    "h": 350,
-                    "size": 16721,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:921a2e48c950a2b6fb92aadcf95f80c56f2d28f9699e4d9f48a992b330b9c531"
-        },
-        {
-            "body": "Boom 01",
-            "url": "mxc://matrix-stg.ranok.cc/yQiguUXBThuzTBkdxZTVeBUl",
-            "info": {
-                "w": 640,
-                "h": 360,
-                "size": 16721,
-                "mimetype": "image/gif",
-                "thumbnail_url": "mxc://matrix-stg.ranok.cc/yQiguUXBThuzTBkdxZTVeBUl",
-                "thumbnail_info": {
-                    "w": 640,
-                    "h": 360,
-                    "size": 16721,
-                    "mimetype": "image/gif"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:a056f6a5f5b12646c68a977539e1108b1fe2418f175571d4404c898ff13a8d2d"
         }
         
     ]
