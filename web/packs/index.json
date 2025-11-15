@@ -1,7 +1,8 @@
 {
   "packs": [
     "3rd-ab.json",
-    "pariot.json"
+    "pariot.json",
+    "tech_support.json"
   ],
   "homeserver_url": "https://matrix.ranok.cc"
 }
