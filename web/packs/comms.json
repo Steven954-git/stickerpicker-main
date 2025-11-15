@@ -39,6 +39,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:253c2381b7e53f3e143530a9f2de215b78e5c7652c28dfc9036a222d1a12faac"
+        },
+        {
+            "body": "Motorolla - 01",
+            "url": "mxc://matrix.ranok.cc/FFMqwYWNScaVmLLFBSpqAwaG",
+            "info": {
+                "w": 133,
+                "h": 243,
+                "size": 16330,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/FFMqwYWNScaVmLLFBSpqAwaG",
+                "thumbnail_info": {
+                    "w": 133,
+                    "h": 243,
+                    "size": 16330,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:5d61e8f35717a6d307141609cf0e2fdf66131d95bc1595de6d607cfe5c79395c"
         }
 
     ]
