@@ -77,6 +77,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:b06c61e942ba51d601fc55f1aa8679bc6811b5e9860f8abc98bf27b789892dcd"
+        },
+        {
+            "body": "Laptop - 01",
+            "url": "mxc://matrix.ranok.cc/QQYRzjsnmScEWlTAfAYrTWAA",
+            "info": {
+                "w": 247,
+                "h": 187,
+                "size": 41388,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/QQYRzjsnmScEWlTAfAYrTWAA",
+                "thumbnail_info": {
+                    "w": 247,
+                    "h": 187,
+                    "size": 41388,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:849032597dc4545230eb291254220a59b98d9bc83f885613984f7a91bc35d484"
+        },
+        {
+            "body": "Mikrotik - 01",
+            "url": "mxc://matrix.ranok.cc/tqkoEelWlgGbroxmCFApjPPP",
+            "info": {
+                "w": 248,
+                "h": 179,
+                "size": 27726,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/tqkoEelWlgGbroxmCFApjPPP",
+                "thumbnail_info": {
+                    "w": 248,
+                    "h": 179,
+                    "size": 27726,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:0430ce7be756dde7edbafd21a8b08ca6e576145a6ea91722fa2d905d5d058a90"
         }
 
     ]
