@@ -20,6 +20,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:d18bb398294d97dfeacbd5e02ff9c10e91612bd11960e35a08848d4bcb100447"
+        },
+        {
+            "body": "Робота триває",
+            "url": "mxc://matrix.ranok.cc/ivKqfNzeFmDLFtzlBBAfiOKm",
+            "info": {
+                "w": 245,
+                "h": 225,
+                "size": 5193,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/ivKqfNzeFmDLFtzlBBAfiOKm",
+                "thumbnail_info": {
+                    "w": 245,
+                    "h": 225,
+                    "size": 5193,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:d18bb398294d97dfeacbd5e02ff9c10e91612bd11960e35a08848d4bcb100447"
         }
 
     ]
