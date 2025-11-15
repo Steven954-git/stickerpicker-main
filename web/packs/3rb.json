@@ -1,0 +1,27 @@
+{
+    "title": "3 ОРБ",
+    "id": "3rdrb-stickers",
+    "stickers": [
+
+        {
+            "body": "3 ОРБ Шеврон",
+            "url": "mxc://matrix.ranok.cc/LJayFMQRlKjCSuxOwpHvkLoU",
+            "info": {
+                "w": 320,
+                "h": 160,
+                "size": 7793,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LJayFMQRlKjCSuxOwpHvkLoU",
+                "thumbnail_info": {
+                    "w": 320,
+                    "h": 160,
+                    "size": 7793,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:03564ded31f2bf2125718d83b7fa9335880c259cbdd6cbaf0abc423a4be7a6af"
+        }
+        
+    ]
+}
