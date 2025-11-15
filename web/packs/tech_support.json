@@ -3,25 +3,6 @@
     "id": "tech_support-stickers",
     "stickers": [
         {
-            "body": "Нове голосове повідомлення",
-            "url": "mxc://matrix.ranok.cc/SVEimHSeuukMDADVlpxqlmrQ",
-            "info": {
-                "w": 265,
-                "h": 44,
-                "size": 5193,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/SVEimHSeuukMDADVlpxqlmrQ",
-                "thumbnail_info": {
-                    "w": 265,
-                    "h": 44,
-                    "size": 5193,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:d18bb398294d97dfeacbd5e02ff9c10e91612bd11960e35a08848d4bcb100447"
-        },
-        {
             "body": "Робота триває",
             "url": "mxc://matrix.ranok.cc/ivKqfNzeFmDLFtzlBBAfiOKm",
             "info": {
@@ -39,6 +20,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:fd677cf99ca9f2176317070983706beb1674ae66618b4a64de3ba7a862302818"
+        },
+        {
+            "body": "Нове голосове повідомлення",
+            "url": "mxc://matrix.ranok.cc/SVEimHSeuukMDADVlpxqlmrQ",
+            "info": {
+                "w": 265,
+                "h": 44,
+                "size": 5193,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/SVEimHSeuukMDADVlpxqlmrQ",
+                "thumbnail_info": {
+                    "w": 265,
+                    "h": 44,
+                    "size": 5193,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:d18bb398294d97dfeacbd5e02ff9c10e91612bd11960e35a08848d4bcb100447"
         }
 
     ]
