@@ -115,6 +115,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:0430ce7be756dde7edbafd21a8b08ca6e576145a6ea91722fa2d905d5d058a90"
+        },
+        {
+            "body": "Mikrotik - 01",
+            "url": "mxc://matrix.ranok.cc/EfgFTDkzQXdRsBcdVLqQsejB",
+            "info": {
+                "w": 166,
+                "h": 249,
+                "size": 80539,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/EfgFTDkzQXdRsBcdVLqQsejB",
+                "thumbnail_info": {
+                    "w": 166,
+                    "h": 249,
+                    "size": 80539,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:b53b382d5054571d5e2cecf0f225b3c9f9c08a658d228ab931f17317ddd2cdfd"
         }
 
     ]
