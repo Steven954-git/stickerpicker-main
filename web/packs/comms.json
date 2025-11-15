@@ -1,0 +1,46 @@
+{
+    "title": "ВЗ 3ОРБ",
+    "id": "comms-stickers",
+    "stickers": [
+        {
+            "body": "Starlink - 01",
+            "url": "mxc://matrix.ranok.cc/uFCVLwKHDiECYKEQauGBPJBP",
+            "info": {
+                "w": 240,
+                "h": 233,
+                "size": 54284,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/uFCVLwKHDiECYKEQauGBPJBP",
+                "thumbnail_info": {
+                    "w": 240,
+                    "h": 233,
+                    "size": 54284,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:880486736627a5d699f364f37dee212322caea7deb547f8b48f0a0010863d6a3"
+        },
+        {
+            "body": "Harris - 01",
+            "url": "mxc://matrix.ranok.cc/nGtLYRNOzDGdGjYcXFkJZjyy",
+            "info": {
+                "w": 112,
+                "h": 254,
+                "size": 54284,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/nGtLYRNOzDGdGjYcXFkJZjyy",
+                "thumbnail_info": {
+                    "w": 112,
+                    "h": 254,
+                    "size": 54284,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:253c2381b7e53f3e143530a9f2de215b78e5c7652c28dfc9036a222d1a12faac"
+        }
+
+    ]
+}
+
