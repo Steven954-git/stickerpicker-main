@@ -58,6 +58,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:5d61e8f35717a6d307141609cf0e2fdf66131d95bc1595de6d607cfe5c79395c"
+        },
+        {
+            "body": "Echoflow - 01",
+            "url": "mxc://matrix.ranok.cc/MFOpetGXrlyFvvpERWnyEtbk",
+            "info": {
+                "w": 241,
+                "h": 248,
+                "size": 41388,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/MFOpetGXrlyFvvpERWnyEtbk",
+                "thumbnail_info": {
+                    "w": 241,
+                    "h": 248,
+                    "size": 41388,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:b06c61e942ba51d601fc55f1aa8679bc6811b5e9860f8abc98bf27b789892dcd"
         }
 
     ]

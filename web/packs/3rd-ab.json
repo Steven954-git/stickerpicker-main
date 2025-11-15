@@ -2,7 +2,25 @@
     "title": "3-тя",
     "id": "3rdab-stickers",
     "stickers": [
-
+                {
+            "body": "3-тя окрема штурмова бригада - 02",
+            "url": "mxc://matrix.ranok.cc/keYjZIxPokAPSwynJSddEsRM",
+            "info": {
+                "w": 350,
+                "h": 350,
+                "size": 13346,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/keYjZIxPokAPSwynJSddEsRM",
+                "thumbnail_info": {
+                    "w": 350,
+                    "h": 350,
+                    "size": 13346,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a6f20830a3e862bd9a71f261421ad6f71c1a3d08d18704750ce295a27d70f91a"
+        },
         {
             "body": "3-тя окрема штурмова бригада - 01",
             "url": "mxc://matrix.ranok.cc/OjMqYlnsqixgUTYXBGhDCksd",
@@ -21,26 +39,8 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:44fe49a3cc25281f3ba09ed2b5cdfa28f9c7f1ce8830e1cfb00d1c60b6e65a04"
-        },
-        {
-            "body": "3-тя окрема штурмова бригада - 02",
-            "url": "mxc://matrix.ranok.cc/keYjZIxPokAPSwynJSddEsRM",
-            "info": {
-                "w": 350,
-                "h": 350,
-                "size": 13346,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/keYjZIxPokAPSwynJSddEsRM",
-                "thumbnail_info": {
-                    "w": 350,
-                    "h": 350,
-                    "size": 13346,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:a6f20830a3e862bd9a71f261421ad6f71c1a3d08d18704750ce295a27d70f91a"
         }
+
         
     ]
 }
