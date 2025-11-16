@@ -134,6 +134,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:b53b382d5054571d5e2cecf0f225b3c9f9c08a658d228ab931f17317ddd2cdfd"
+        },
+        {
+            "body": "I maked these",
+            "url": "mxc://matrix.ranok.cc/mOILUzXEHdcsMFaWjxvMVNGt",
+            "info": {
+                "w": 250,
+                "h": 205,
+                "size": 41266,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/mOILUzXEHdcsMFaWjxvMVNGt",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 205,
+                    "size": 41266,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:6b2f1d6bedc8ab457586119d9580528cf3ddda40fa1ff8ece7698de03a6b3b90"
         }
 
     ]
