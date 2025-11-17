@@ -104,13 +104,13 @@
                 "w": 230,
                 "h": 172,
                 "size": 4041,
-                "mimetype": "image/png",
+                "mimetype": "image/gif",
                 "thumbnail_url": "mxc://matrix.ranok.cc/JbUOrQjlxVACURWsIeWtPRZc",
                 "thumbnail_info": {
                     "w": 230,
                     "h": 172,
                     "size": 4041,
-                    "mimetype": "image/png"
+                    "mimetype": "image/gif"
                 }
             },
             "msgtype": "m.sticker",
