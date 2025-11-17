@@ -20,6 +20,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:393afc142e7413ad6d415af508fdde12d6ba7df7a8a43374684ae0399473163d"
+        },
+        {
+            "body": "Свята Джавеліна",
+            "url": "mxc://matrix.ranok.cc/zQqMGUqRABsHrjyMEgVSGcHo",
+            "info": {
+                "w": 170,
+                "h": 250,
+                "size": 73160,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/zQqMGUqRABsHrjyMEgVSGcHo",
+                "thumbnail_info": {
+                    "w": 170,
+                    "h": 250,
+                    "size": 73160,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:9657f3dbec59c682eaa0dd1fc21c7d0071d2175d2bbb442bc02f86dfccffa31b"
+        },
+                {
+            "body": "Свята Джавеліна",
+            "url": "mxc://matrix.ranok.cc/zptIjytNlGsmOCRNMTabztUq",
+            "info": {
+                "w": 179,
+                "h": 250,
+                "size": 88799,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/zptIjytNlGsmOCRNMTabztUq",
+                "thumbnail_info": {
+                    "w": 179,
+                    "h": 250,
+                    "size": 88799,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:2e4efc3d78a1f9ca4d9dfaf7512230d4c6ff20772164453ed9e620689e136236"
         }
 
     ]

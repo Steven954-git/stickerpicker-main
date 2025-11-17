@@ -4,13 +4,13 @@
     "stickers": [
                 {
             "body": "3-тя окрема штурмова бригада",
-            "url": "mxc://matrix.ranok.cc/keYjZIxPokAPSwynJSddEsRM",
+            "url": "mxc://matrix.ranok.cc/bLrysXFawWhHLbFwZPobvytg",
             "info": {
                 "w": 350,
                 "h": 350,
                 "size": 13346,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/keYjZIxPokAPSwynJSddEsRM",
+                "thumbnail_url": "mxc://matrix.ranok.cc/bLrysXFawWhHLbFwZPobvytg",
                 "thumbnail_info": {
                     "w": 350,
                     "h": 350,
@@ -44,3 +44,4 @@
         
     ]
 }
+
