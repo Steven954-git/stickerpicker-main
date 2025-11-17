@@ -20,7 +20,29 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:03564ded31f2bf2125718d83b7fa9335880c259cbdd6cbaf0abc423a4be7a6af"
+        },
+                {
+            "body": "«Увага»",
+            "url": "mxc://matrix.ranok.cc/hqeKTWchZIsEEFzZhMTBTFlo",
+            "info": {
+                "w": 206,
+                "h": 250,
+                "size": 21746,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/hqeKTWchZIsEEFzZhMTBTFlo",
+                "thumbnail_info": {
+                    "w": 206,
+                    "h": 250,
+                    "size": 21746,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:282a9c9d424e83c152acbbb86c674dbc6360d9b1b8f28f21f041587ca587046e"
         }
         
     ]
 }
+
+
+
