@@ -96,6 +96,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:2b67b4df1e964b531c184caa73bea74738beb3823e27267634c181a2b94b3f08"
+        },
+        {
+            "body": "Трімаю",
+            "url": "mxc://matrix.ranok.cc/JbUOrQjlxVACURWsIeWtPRZc",
+            "info": {
+                "w": 230,
+                "h": 172,
+                "size": 4041,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/JbUOrQjlxVACURWsIeWtPRZc",
+                "thumbnail_info": {
+                    "w": 230,
+                    "h": 172,
+                    "size": 4041,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:556ac2c5ac9155c59fbf7d3486c1f96472ef643b65601fcdffc8fe21ce97b0d3"
         }
 
     ]
