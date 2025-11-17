@@ -77,6 +77,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:8237350824a480fd2d3285013c0daf1c5ec43090455cd7e3b427242fde920843"
+        },
+        {
+            "body": "Fallout bomb",
+            "url": "mxc://matrix.ranok.cc/QXkngLQkrLqfwZqWrELCvFaw",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 29043,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/QXkngLQkrLqfwZqWrELCvFaw",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 29043,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:2b67b4df1e964b531c184caa73bea74738beb3823e27267634c181a2b94b3f08"
         }
 
     ]
