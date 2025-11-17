@@ -172,6 +172,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:a784b393bab3beb408a026e3d7491341abc8a187b4ea6eaea1b64256d4c168ec"
+        },
+        {
+            "body": "Друг!",
+            "url": "mxc://matrix.ranok.cc/UgUcTSBavcchRofSOKtKixDb",
+            "info": {
+                "w": 250,
+                "h": 170,
+                "size": 79740,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/UgUcTSBavcchRofSOKtKixDb",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 170,
+                    "size": 79740,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a1efd9b4809df421effe71ceb80407fcb3ced20f0fd831b1cf0c357f8d86afd1"
+        },
+        {
+            "body": "Хайль!",
+            "url": "mxc://matrix.ranok.cc/nVhOvqDMhQpZwVTXJVaElOpp",
+            "info": {
+                "w": 250,
+                "h": 194,
+                "size": 65335,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/nVhOvqDMhQpZwVTXJVaElOpp",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 194,
+                    "size": 65335,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a75cffbb0780ee7af80429428a81dd82adfa7e52835cb51b36d65363f07455c0"
         }
 
 
