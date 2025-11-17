@@ -39,8 +39,48 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:d18bb398294d97dfeacbd5e02ff9c10e91612bd11960e35a08848d4bcb100447"
+        },
+        {
+            "body": "Палець вниз",
+            "url": "mxc://matrix.ranok.cc/UuzudBVKyfAuQJtsGgCIDqtL",
+            "info": {
+                "w": 227,
+                "h": 250,
+                "size": 36728,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/UuzudBVKyfAuQJtsGgCIDqtL",
+                "thumbnail_info": {
+                    "w": 227,
+                    "h": 250,
+                    "size": 36728,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:8a76e2d0dded246a10ff6ee44ed983a478c7d9c9300cac65161520450984ff7e"
+        },
+        {
+            "body": "Палець догори",
+            "url": "mxc://matrix.ranok.cc/QKgXmRPvQlncSEfRMOjYXxMB",
+            "info": {
+                "w": 244,
+                "h": 250,
+                "size": 37595,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/QKgXmRPvQlncSEfRMOjYXxMB",
+                "thumbnail_info": {
+                    "w": 244,
+                    "h": 250,
+                    "size": 37595,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:8237350824a480fd2d3285013c0daf1c5ec43090455cd7e3b427242fde920843"
         }
 
     ]
 }
+
+
 
