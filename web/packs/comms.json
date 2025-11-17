@@ -136,23 +136,23 @@
             "id": "sha256:b53b382d5054571d5e2cecf0f225b3c9f9c08a658d228ab931f17317ddd2cdfd"
         },
         {
-            "body": "I maked these",
-            "url": "mxc://matrix.ranok.cc/lBnxZnPdwNEQoljPKQxiMJnY",
+            "body": "Don`t push the horses",
+            "url": "mxc://matrix.ranok.cc/uCGvolJSeSNUWiESfGoGAwcn",
             "info": {
-                "w": 250,
-                "h": 210,
-                "size": 43087,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/lBnxZnPdwNEQoljPKQxiMJnY",
+                "w": 200,
+                "h": 100,
+                "size": 9068,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/uCGvolJSeSNUWiESfGoGAwcn",
                 "thumbnail_info": {
-                    "w": 250,
-                    "h": 210,
-                    "size": 43087,
-                    "mimetype": "image/png"
+                    "w": 300,
+                    "h": 150,
+                    "size": 9068,
+                    "mimetype": "image/gif"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "sha256:4095274f61114b89709eeec84ec30f72ce6fb7d59064480094018035e67d6dfe"
+            "id": "sha256:9e9a6de3013118937ced716f53b2d73c8e75cf825cdac0d53e9aa535f7c7d2e4"
         }
 
     ]
