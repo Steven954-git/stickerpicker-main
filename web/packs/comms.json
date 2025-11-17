@@ -266,7 +266,26 @@
                 }
             },
             "msgtype": "m.sticker",
-            "id": "sha256:ddpauNnoYZxPjlxDKltOeJTJ"
+            "id": "sha256:b8457cc97bd18e04b45190dbdc80a7101adabf8e3be3477cfa199d5f6ac00019"
+        },
+        {
+            "body": "ТАК БИВАЕТ",
+            "url": "mxc://matrix.ranok.cc/CTwmxtQkXlYURmIdwPwIdyFH",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 89201,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/CTwmxtQkXlYURmIdwPwIdyFH",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 89201,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:d53f33ae50f240b7286e02f41ef6ae809bd7595deddb2dfbd346e4611062513c"
         }
 
 
