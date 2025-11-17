@@ -286,6 +286,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:d53f33ae50f240b7286e02f41ef6ae809bd7595deddb2dfbd346e4611062513c"
+        },
+        {
+            "body": "Communication is key",
+            "url": "mxc://matrix.ranok.cc/qphJnAtfiEJFuZIJbcnVYtUZ",
+            "info": {
+                "w": 226,
+                "h": 350,
+                "size": 110190,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/qphJnAtfiEJFuZIJbcnVYtUZ",
+                "thumbnail_info": {
+                    "w": 226,
+                    "h": 350,
+                    "size": 110190,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:4c2fe7eb53cd70184e0a0dab4167848dc580d8fa4f1d6acde8f1eb14001bf8f6"
         }
 
 
