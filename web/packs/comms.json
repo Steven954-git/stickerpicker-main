@@ -231,25 +231,6 @@
             "id": "sha256:a75cffbb0780ee7af80429428a81dd82adfa7e52835cb51b36d65363f07455c0"
         },
         {
-            "body": "Пепе сміявся",
-            "url": "mxc://matrix.ranok.cc/TGjvALxtLwKLWHgMaTMHEZCS",
-            "info": {
-                "w": 250,
-                "h": 250,
-                "size": 77242,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/TGjvALxtLwKLWHgMaTMHEZCS",
-                "thumbnail_info": {
-                    "w": 250,
-                    "h": 250,
-                    "size": 77242,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:be19a654e275155ffcf28ad1ca4b872d05eb9e4f01883cb66c4393cc0931dc5b"
-        },
-        {
             "body": "Пожертвувати собою",
             "url": "mxc://matrix.ranok.cc/qsbDzMFTAtsKzooVMuaYGSpf",
             "info": {
