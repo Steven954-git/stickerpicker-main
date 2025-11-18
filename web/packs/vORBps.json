@@ -250,7 +250,7 @@
             "id": "sha256:20a5cc2ca22065ae9c40629b0a04138a61ed305262039dbd2d03e8db7f341eb4"
         },
         {
-            "body": "Бойова вівця",
+            "body": "KFC - pidor",
             "url": "mxc://matrix.ranok.cc/vlsAutVZnUaOwSLncfwwqeXO",
             "info": {
                 "w": 189,
@@ -267,6 +267,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:05dab7ffbfabc66f559681c1fa47c5ecadec5452160e83d50e887ea65c148ac9"
+        },
+        {
+            "body": "Салют",
+            "url": "mxc://matrix.ranok.cc/HjyOvHEEIDGCNpaygZizCmRu",
+            "info": {
+                "w": 186,
+                "h": 250,
+                "size": 65987,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/HjyOvHEEIDGCNpaygZizCmRu",
+                "thumbnail_info": {
+                    "w": 186,
+                    "h": 250,
+                    "size": 65987,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:94ba9f2143436539a5e17eddeeab7b0c1d986923af2bccda4fe5c639c31fca56"
         }
 
 
