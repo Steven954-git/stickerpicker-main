@@ -1,0 +1,278 @@
+{
+    "title": "вОРБпС",
+    "id": "comms-stickers",
+    "stickers": [
+        {
+            "body": "Прямо до в’язниці",
+            "url": "mxc://matrix.ranok.cc/FmKQYiotTqsfmyYOpPzcawoo",
+            "info": {
+                "w": 180,
+                "h": 250,
+                "size": 46638,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/FmKQYiotTqsfmyYOpPzcawoo",
+                "thumbnail_info": {
+                    "w": 180,
+                    "h": 250,
+                    "size": 46638,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:557967aaca8be4be36c5b88144a81fbad3d537f69e213bf10c253f9a08d39392"
+        },
+        {
+            "body": "420?450?",
+            "url": "mxc://matrix.ranok.cc/GmOyieiArWopIzXhIspwmVjK",
+            "info": {
+                "w": 182,
+                "h": 250,
+                "size": 46925,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/GmOyieiArWopIzXhIspwmVjK",
+                "thumbnail_info": {
+                    "w": 182,
+                    "h": 250,
+                    "size": 46925,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:ce0203384a19e7127764769fdbaa5b3c7d8b977960d55fdf73f0a8d596f41596"
+        },
+        {
+            "body": "?",
+            "url": "mxc://matrix.ranok.cc/XqXeXOXwqTjzRrqJPXIcCnhm",
+            "info": {
+                "w": 223,
+                "h": 250,
+                "size": 57266,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/XqXeXOXwqTjzRrqJPXIcCnhm",
+                "thumbnail_info": {
+                    "w": 223,
+                    "h": 250,
+                    "size": 57266,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:7c62804007d0cff0c834425e8674e723ecf7fc6943a125fefa2f6b8747570f07"
+        },
+        {
+            "body": "<|-|>",
+            "url": "mxc://matrix.ranok.cc/assozOfikHdEGxuycNddhTXz",
+            "info": {
+                "w": 191,
+                "h": 250,
+                "size": 62688,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/assozOfikHdEGxuycNddhTXz",
+                "thumbnail_info": {
+                    "w": 191,
+                    "h": 250,
+                    "size": 62688,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:87037c48b8a3fb6836423c8e3b8e1ea5183a54be0a93ec6f8e5af0531d61a9e5"
+        },
+        {
+            "body": "Підпишіться тут",
+            "url": "mxc://matrix.ranok.cc/QWzOjltrsibbtBheUyhWxBxo",
+            "info": {
+                "w": 164,
+                "h": 250,
+                "size": 48423,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/QWzOjltrsibbtBheUyhWxBxo",
+                "thumbnail_info": {
+                    "w": 164,
+                    "h": 250,
+                    "size": 48423,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:64e6832e1fc7def039bc1c819259c8c507ae43b3253f1cbc5859a44d0cb3133e"
+        },
+        {
+            "body": "Підпишіться тут",
+            "url": "mxc://matrix.ranok.cc/HpmEUmEtLmYQuUqxgLEjDHGr",
+            "info": {
+                "w": 133,
+                "h": 250,
+                "size": 45804,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/HpmEUmEtLmYQuUqxgLEjDHGr",
+                "thumbnail_info": {
+                    "w": 133,
+                    "h": 250,
+                    "size": 45804,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:0b6beefdb52b3f444f2a4e64f80ad4fc7bc3727510abcb385c279f0340c70fc2"
+        },
+        {
+            "body": "Хлібний Ісус",
+            "url": "mxc://matrix.ranok.cc/PBIjmgbLmcUnGLprDPSWkGfC",
+            "info": {
+                "w": 231,
+                "h": 250,
+                "size": 72682,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/PBIjmgbLmcUnGLprDPSWkGfC",
+                "thumbnail_info": {
+                    "w": 231,
+                    "h": 250,
+                    "size": 72682,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:6fdd9364219d8e1a421bfb7afc8850a01cb990e46d65da1f3a2a41b77612002b"
+        },
+        {
+            "body": "Хлібний Ісус",
+            "url": "mxc://matrix.ranok.cc/BEIjXYsYVGZUAoTAmqtuduBx",
+            "info": {
+                "w": 250,
+                "h": 125,
+                "size": 64087,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/BEIjXYsYVGZUAoTAmqtuduBx",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 125,
+                    "size": 64087,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:2837e7cf2142c58a6d62b1edbf9dd4583283303bb648f4f5da2f09cc52f1e301"
+        },
+        {
+            "body": "Потанцюй зі мною",
+            "url": "mxc://matrix.ranok.cc/PvGiDUqlErtMMHbqFXVXWixi",
+            "info": {
+                "w": 143,
+                "h": 250,
+                "size": 48530,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/PvGiDUqlErtMMHbqFXVXWixi",
+                "thumbnail_info": {
+                    "w": 143,
+                    "h": 250,
+                    "size": 48530,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:7c51d0f122434662b0f23a8c0ba5579af540befeb6bc7d867a94e27e390fcf68"
+        },
+        {
+            "body": "KILL YOU",
+            "url": "mxc://matrix.ranok.cc/AYPRGlxNJlvtHEBpvYZvoZhs",
+            "info": {
+                "w": 141,
+                "h": 250,
+                "size": 39205,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/AYPRGlxNJlvtHEBpvYZvoZhs",
+                "thumbnail_info": {
+                    "w": 141,
+                    "h": 250,
+                    "size": 39205,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:4c25e13f4e0b9a006a054a6af6ede47f7df410a99816c93f1ab774053016e028"
+        },
+        {
+            "body": "The DOG",
+            "url": "mxc://matrix.ranok.cc/CrVllKlBbgwkHoYEpMQmmLau",
+            "info": {
+                "w": 184,
+                "h": 250,
+                "size": 33947,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/CrVllKlBbgwkHoYEpMQmmLau",
+                "thumbnail_info": {
+                    "w": 184,
+                    "h": 250,
+                    "size": 33947,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:da3bceb0ff368151328a65e056174016fc8f4ffbc8b7371cf0ed0c3de2db9bac"
+        },
+        {
+            "body": "Meteo combat",
+            "url": "mxc://matrix.ranok.cc/LgXkqDYxydHOIpKxxrNbPkYa",
+            "info": {
+                "w": 250,
+                "h": 154,
+                "size": 31173,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LgXkqDYxydHOIpKxxrNbPkYa",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 154,
+                    "size": 31173,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:2806df419da23e2cea89b36bcc53403fbaccdbc53eedb72c5d098c3aacfdb450"
+        },
+        {
+            "body": "Бойова вівця",
+            "url": "mxc://matrix.ranok.cc/yYjNGEQFDgNbxTlcGXMvZrhZ",
+            "info": {
+                "w": 196,
+                "h": 250,
+                "size": 60255,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/yYjNGEQFDgNbxTlcGXMvZrhZ",
+                "thumbnail_info": {
+                    "w": 196,
+                    "h": 250,
+                    "size": 60255,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:20a5cc2ca22065ae9c40629b0a04138a61ed305262039dbd2d03e8db7f341eb4"
+        },
+        {
+            "body": "Бойова вівця",
+            "url": "mxc://matrix.ranok.cc/vlsAutVZnUaOwSLncfwwqeXO",
+            "info": {
+                "w": 189,
+                "h": 250,
+                "size": 126563,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/vlsAutVZnUaOwSLncfwwqeXO",
+                "thumbnail_info": {
+                    "w": 189,
+                    "h": 250,
+                    "size": 126563,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:20a5cc2ca22065ae9c40629b0a04138a61ed305262039dbd2d03e8db7f341eb4"
+        }
+
+
+
+
+    ]
+}
+
+
