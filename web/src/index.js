@@ -266,22 +266,9 @@ class App extends Component {
 		widgetAPI.sendSticker(sticker)
 	}
 	
-navScroll(evt) {
-    const el = this.navRef;
-
-    // amount the nav can still scroll in either direction
-    const atLeft  = el.scrollLeft <= 0;
-    const atRight = el.scrollLeft + el.clientWidth >= el.scrollWidth;
-
-    // User wants to scroll horizontally (via deltaY)
-    // Only consume the event if we CAN scroll in that direction.
-    if ((evt.deltaY < 0 && !atLeft) || (evt.deltaY > 0 && !atRight)) {
-        evt.preventDefault();     // stop main window from scrolling
-        evt.stopPropagation();    // don't bubble
-        el.scrollLeft += evt.deltaY;  // apply scroll
-    }
-}
-
+	navScroll(evt) {
+		this.navRef.scrollLeft += evt.deltaY
+	}
 
 	render() {
 		const theme = `theme-${this.state.theme}`
@@ -320,7 +307,7 @@ navScroll(evt) {
 
 		return html`
 			<main class="has-content ${theme}">
-				<nav onWheel=${this.navScroll} ref=${elem => this.navRef = elem}>
+				<nav ref=${elem => this.navRef = elem}>
 					${giphyIsEnabled() && html`
 						<${NavBarItem} pack=${{id: "giphy", title: "GIPHY"}} iconOverride="giphy" onClickOverride=${switchToGiphy} extraClass=${this.state.viewingGifs ? "visible" : ""}/>
 					`}
