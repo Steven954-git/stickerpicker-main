@@ -265,12 +265,9 @@ class App extends Component {
 		this.updateFrequentlyUsed()
 		widgetAPI.sendSticker(sticker)
 	}
-
+	
 	navScroll(evt) {
-		if (evt.currentTarget !== evt.target && !evt.currentTarget.contains(evt.target)) {
-			return;
-		}
-		evt.stopPropagation();
+		evt.stopPropagation();  // <— ADD
 		this.navRef.scrollLeft += evt.deltaY;
 	}
 
