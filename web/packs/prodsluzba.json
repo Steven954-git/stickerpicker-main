@@ -1,0 +1,146 @@
+{
+    "title": "ПродСлужба",
+    "id": "prodsluzba-stickers",
+    "stickers": [
+        {
+            "body": "Кухня",
+            "url": "mxc://matrix.ranok.cc/xTTWkzoMAhlwOlOnsizRxxOP",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 31635,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/xTTWkzoMAhlwOlOnsizRxxOP",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 31635,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:e6bb4ad658de7531c3379652354b735f338da4b3647e848e76c2347e7dee05e8"
+        },
+        {
+            "body": "ПММ",
+            "url": "mxc://matrix.ranok.cc/WyNtVvYVgIxwafQuKbqzyMVb",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 33272,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/WyNtVvYVgIxwafQuKbqzyMVb",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 33272,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:4c16081634bf02665e4344b4f80f02e33505e303abe33b5729a1d49c2121f7ff"
+        },
+        {
+            "body": "Продка",
+            "url": "mxc://matrix.ranok.cc/eDhnfWaUFeJTyApUmDwEPjUp",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 25159,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/eDhnfWaUFeJTyApUmDwEPjUp",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 25159,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:832e6a672e5ddecbccf856a560b42d5554c70945d987522ee58b398ca49ca512"
+        },
+        {
+            "body": "ВМЗ",
+            "url": "mxc://matrix.ranok.cc/SdYhtlLdTLTAFnWTzvAIDpHm",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 24909,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/SdYhtlLdTLTAFnWTzvAIDpHm",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 24909,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:192ccb55e9dd62c38218a98dddd0d7efa52b2f05185ad76ad7dfecb754a8cb96"
+        },
+        {
+            "body": "СІІЗ",
+            "url": "mxc://matrix.ranok.cc/lkLGrGCgIMzlEAMoWKrHABXh",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 25703,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/lkLGrGCgIMzlEAMoWKrHABXh",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 25703,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a325ae205bb1b97313ff5f297cfcff43c1cbb78a7ea112780677c9a64c45647e"
+        },
+        {
+            "body": "Речова",
+            "url": "mxc://matrix.ranok.cc/wXEAQymhjfWJZRnQNixTwkud",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 39174,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/wXEAQymhjfWJZRnQNixTwkud",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 39174,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:8d438e72b2f71ba092731f7533c5f54ef3d00b9a07601a629c5c25dab14811fc"
+        },
+        {
+            "body": "Речова",
+            "url": "mxc://matrix.ranok.cc/UEqqGZFAoPfDciVnbalRBLJE",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 27099,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/UEqqGZFAoPfDciVnbalRBLJE",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 27099,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:c19a93d112c608e6d0e1f6f453ec1dbd4923d79fca343e401cb2eb7b83e638cc"
+        }
+
+
+
+
+
+    
+    ]
+}
+
