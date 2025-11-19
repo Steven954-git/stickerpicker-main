@@ -233,7 +233,7 @@ class App extends Component {
 			} else {
 				navElement.classList.remove("visible")
 			}
-		//}
+		}
 		//if (minXElem !== null) {
 		//	minXElem.scrollIntoView({inline: "start"})
 		//} else if (maxXElem !== null) {
