@@ -266,10 +266,22 @@ class App extends Component {
 		widgetAPI.sendSticker(sticker)
 	}
 	
-	navScroll(evt) {
-		evt.stopPropagation();  // <— ADD
-		this.navRef.scrollLeft += evt.deltaY;
-	}
+navScroll(evt) {
+    const el = this.navRef;
+
+    // amount the nav can still scroll in either direction
+    const atLeft  = el.scrollLeft <= 0;
+    const atRight = el.scrollLeft + el.clientWidth >= el.scrollWidth;
+
+    // User wants to scroll horizontally (via deltaY)
+    // Only consume the event if we CAN scroll in that direction.
+    if ((evt.deltaY < 0 && !atLeft) || (evt.deltaY > 0 && !atRight)) {
+        evt.preventDefault();     // stop main window from scrolling
+        evt.stopPropagation();    // don't bubble
+        el.scrollLeft += evt.deltaY;  // apply scroll
+    }
+}
+
 
 	render() {
 		const theme = `theme-${this.state.theme}`
