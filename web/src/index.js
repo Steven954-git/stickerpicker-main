@@ -267,7 +267,11 @@ class App extends Component {
 	}
 
 	navScroll(evt) {
-		this.navRef.scrollLeft += evt.deltaY
+		if (evt.currentTarget !== evt.target && !evt.currentTarget.contains(evt.target)) {
+			return;
+		}
+		evt.stopPropagation();
+		this.navRef.scrollLeft += evt.deltaY;
 	}
 
 	render() {
