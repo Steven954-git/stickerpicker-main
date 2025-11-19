@@ -267,6 +267,7 @@ class App extends Component {
 	}
 	
 	navScroll(evt) {
+		return;
 		this.navRef.scrollLeft += evt.deltaY
 	}
 
@@ -307,7 +308,7 @@ class App extends Component {
 
 		return html`
 			<main class="has-content ${theme}">
-				<nav ref=${elem => this.navRef = elem}>
+				<nav onWheel=${this.navScroll} ref=${elem => this.navRef = elem}>
 					${giphyIsEnabled() && html`
 						<${NavBarItem} pack=${{id: "giphy", title: "GIPHY"}} iconOverride="giphy" onClickOverride=${switchToGiphy} extraClass=${this.state.viewingGifs ? "visible" : ""}/>
 					`}
