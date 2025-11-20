@@ -307,25 +307,6 @@
             "id": "sha256:1cc3f2718773a2a92ff43de5cfc3eac46648959d4d12616a9168d405d40397b0"
         },
         {
-            "body": "Копання",
-            "url": "mxc://matrix.ranok.cc/kbqKFqArMaZZAmcMKTLclWjo",
-            "info": {
-                "w": 170,
-                "h": 250,
-                "size": 77988,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/kbqKFqArMaZZAmcMKTLclWjo",
-                "thumbnail_info": {
-                    "w": 170,
-                    "h": 250,
-                    "size": 77988,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:bc4995767dbfe637c924e79fd8331ebb5f445f4f77ac25301bec62aca0840fa9"
-        },
-        {
             "body": "Кока-кола",
             "url": "mxc://matrix.ranok.cc/acshNVJvHeikqzTvMDHRvxhC",
             "info": {
