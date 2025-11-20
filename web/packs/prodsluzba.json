@@ -134,6 +134,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:c19a93d112c608e6d0e1f6f453ec1dbd4923d79fca343e401cb2eb7b83e638cc"
+        },
+        {
+            "body": "Продки",
+            "url": "mxc://matrix.ranok.cc/DUCfNYpisqydYTYakzAJFksS",
+            "info": {
+                "w": 183,
+                "h": 250,
+                "size": 51858,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/DUCfNYpisqydYTYakzAJFksS",
+                "thumbnail_info": {
+                    "w": 183,
+                    "h": 250,
+                    "size": 51858,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:648725fdec69c89865b285c0a8d102b100dbbd379051e43639973504d6debb84"
         }
 
 
