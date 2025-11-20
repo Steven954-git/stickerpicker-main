@@ -286,6 +286,310 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:94ba9f2143436539a5e17eddeeab7b0c1d986923af2bccda4fe5c639c31fca56"
+        },
+        {
+            "body": "Святий",
+            "url": "mxc://matrix.ranok.cc/VEMrNVtzRnztkEuHXbkSwSFW",
+            "info": {
+                "w": 183,
+                "h": 250,
+                "size": 99414,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/VEMrNVtzRnztkEuHXbkSwSFW",
+                "thumbnail_info": {
+                    "w": 183,
+                    "h": 250,
+                    "size": 99414,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:1cc3f2718773a2a92ff43de5cfc3eac46648959d4d12616a9168d405d40397b0"
+        },
+        {
+            "body": "Копання",
+            "url": "mxc://matrix.ranok.cc/kbqKFqArMaZZAmcMKTLclWjo",
+            "info": {
+                "w": 170,
+                "h": 250,
+                "size": 77988,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/kbqKFqArMaZZAmcMKTLclWjo",
+                "thumbnail_info": {
+                    "w": 170,
+                    "h": 250,
+                    "size": 77988,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:bc4995767dbfe637c924e79fd8331ebb5f445f4f77ac25301bec62aca0840fa9"
+        },
+        {
+            "body": "Кока-кола",
+            "url": "mxc://matrix.ranok.cc/acshNVJvHeikqzTvMDHRvxhC",
+            "info": {
+                "w": 168,
+                "h": 250,
+                "size": 61564,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/acshNVJvHeikqzTvMDHRvxhC",
+                "thumbnail_info": {
+                    "w": 168,
+                    "h": 250,
+                    "size": 61564,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:6ba8f4f02e5efc124e1e4f73a476f6f1be0f0037596638018abb46eb89c5baeb"
+        },
+        {
+            "body": "Та, по суті",
+            "url": "mxc://matrix.ranok.cc/NXXzUPnowSXIPxSjoKlUPayK",
+            "info": {
+                "w": 242,
+                "h": 250,
+                "size": 107877,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/NXXzUPnowSXIPxSjoKlUPayK",
+                "thumbnail_info": {
+                    "w": 242,
+                    "h": 250,
+                    "size": 107877,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:6f5f62b4a056e2494e68ca948785cef5d7523b8d98d5aedcd46016832260d70f"
+        },
+        {
+            "body": "Нічник 9000",
+            "url": "mxc://matrix.ranok.cc/coMsnPEmtZnLgqtNBoRMLqML",
+            "info": {
+                "w": 177,
+                "h": 250,
+                "size": 92935,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/coMsnPEmtZnLgqtNBoRMLqML",
+                "thumbnail_info": {
+                    "w": 177,
+                    "h": 250,
+                    "size": 92935,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:171a57b9e4e6c3198e41d7584c93663a54cfdd60ee17d5c8c4d84587cf2224e4"
+        },
+        {
+            "body": "Зарплату отримав",
+            "url": "mxc://matrix.ranok.cc/CseVlavwapHhAScGvjWDSRLw",
+            "info": {
+                "w": 123,
+                "h": 250,
+                "size": 50066,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/CseVlavwapHhAScGvjWDSRLw",
+                "thumbnail_info": {
+                    "w": 123,
+                    "h": 250,
+                    "size": 50066,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:8a7987e3910671a1fa5dded3e6aeb3df0f67e496b9112d1b96f24d5edc04d86b"
+        },
+        {
+            "body": "Перезаряджаю магазин",
+            "url": "mxc://matrix.ranok.cc/ltQnvtTrtSTOrELHRrPEMbnY",
+            "info": {
+                "w": 187,
+                "h": 250,
+                "size": 73721,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/ltQnvtTrtSTOrELHRrPEMbnY",
+                "thumbnail_info": {
+                    "w": 187,
+                    "h": 250,
+                    "size": 73721,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:7d9977ae0a29d393aec12b161f02381606e2c530483589eaea6f4d8ca540f99a"
+        },
+        {
+            "body": "Перезаряджаю магазин",
+            "url": "mxc://matrix.ranok.cc/EXAkeRbELPXGdRwLUuyoefyW",
+            "info": {
+                "w": 219,
+                "h": 250,
+                "size": 34212,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/EXAkeRbELPXGdRwLUuyoefyW",
+                "thumbnail_info": {
+                    "w": 219,
+                    "h": 250,
+                    "size": 34212,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:f91d76b4da01a9a2558ed55266fb8fe631edb01dc44041b4185f537a7f5c0325"
+        },
+        {
+            "body": "Щасливий",
+            "url": "mxc://matrix.ranok.cc/LNkTiXKdYscvdkvQLAitZEMH",
+            "info": {
+                "w": 224,
+                "h": 250,
+                "size": 88121,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LNkTiXKdYscvdkvQLAitZEMH",
+                "thumbnail_info": {
+                    "w": 224,
+                    "h": 250,
+                    "size": 88121,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:e41130bb4b0c802938255a77e727503ec6e360bd25edd430149f6f6c05671082"
+        },
+        {
+            "body": "Бетмен Святий",
+            "url": "mxc://matrix.ranok.cc/WRVMYrxlJQHhLDLFrmvGzfkW",
+            "info": {
+                "w": 153,
+                "h": 250,
+                "size": 53718,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/WRVMYrxlJQHhLDLFrmvGzfkW",
+                "thumbnail_info": {
+                    "w": 153,
+                    "h": 250,
+                    "size": 53718,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:b8f830e7d293fdba95ba7492462cd0ec25b479efabb6864892f54134d93b135d"
+        },
+        {
+            "body": "Тортолиця",
+            "url": "mxc://matrix.ranok.cc/bCkCkCgdpeUlzOOIcqhlfXXu",
+            "info": {
+                "w": 131,
+                "h": 250,
+                "size": 51127,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/bCkCkCgdpeUlzOOIcqhlfXXu",
+                "thumbnail_info": {
+                    "w": 131,
+                    "h": 250,
+                    "size": 51127,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:fb50339e890948d89bf35d5d8f260585ddb171ae3b71e00c1aff89df1879c775"
+        },
+        {
+            "body": "доброволець",
+            "url": "mxc://matrix.ranok.cc/BgywJblSjBnuEggfcAbvQjVW",
+            "info": {
+                "w": 164,
+                "h": 250,
+                "size": 36839,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/BgywJblSjBnuEggfcAbvQjVW",
+                "thumbnail_info": {
+                    "w": 164,
+                    "h": 250,
+                    "size": 36839,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:514f25fa6ad1b4c34b8239623095fe62ebd1a3f6967c19e57b3c726b2a4cf145"
+        },
+        {
+            "body": "Бумбокс",
+            "url": "mxc://matrix.ranok.cc/EJBGbHGaMPtwXOXjuoHNCHqd",
+            "info": {
+                "w": 151,
+                "h": 250,
+                "size": 44247,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/EJBGbHGaMPtwXOXjuoHNCHqd",
+                "thumbnail_info": {
+                    "w": 151,
+                    "h": 250,
+                    "size": 44247,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:1a37f760fd6aab5eff2ac2c9535aafeca66304e42a776de2959efd51a30607bc"
+        },
+        {
+            "body": "Такий солдат з’являється раз на тисячу років",
+            "url": "mxc://matrix.ranok.cc/cqIcSFSvVHJaXbShoOrBAVds",
+            "info": {
+                "w": 169,
+                "h": 250,
+                "size": 72035,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/cqIcSFSvVHJaXbShoOrBAVds",
+                "thumbnail_info": {
+                    "w": 169,
+                    "h": 250,
+                    "size": 72035,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:9a3cfafcfc615f308c3763f3bd0e81035d92e20d82d15c93ed848579c6b6da5c"
+        },
+        {
+            "body": "2 секунди до паркану",
+            "url": "mxc://matrix.ranok.cc/NTEdxrIlSkhNnfLJrowdBNLK",
+            "info": {
+                "w": 250,
+                "h": 174,
+                "size": 67998,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/NTEdxrIlSkhNnfLJrowdBNLK",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 174,
+                    "size": 67998,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:718a02ca3db13f15886e64dab30588a1c7bf41cc5c7a7a33f7b06bdfee3a174c"
+        },
+        {
+            "body": "Splinter",
+            "url": "mxc://matrix.ranok.cc/cIMJuhjphRbeJWHKuacSYbfY",
+            "info": {
+                "w": 190,
+                "h": 250,
+                "size": 111148,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/cIMJuhjphRbeJWHKuacSYbfY",
+                "thumbnail_info": {
+                    "w": 190,
+                    "h": 250,
+                    "size": 111148,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:718a02ca3db13f15886e64dab30588a1c7bf41cc5c7a7a33f7b06bdfee3a174c"
         }
 
 
@@ -293,5 +597,7 @@
 
     ]
 }
+
+
 
 
