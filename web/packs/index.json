@@ -2,9 +2,9 @@
   "packs": [
     "3orb.json",
     "3rd-ab.json",
+    "prodsluzba.json",
     "comms.json",
     "vORBps.json",
-    "prodsluzba.json",
     "pariot.json",
     "tech_support.json"
   ],
