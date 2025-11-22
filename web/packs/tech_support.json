@@ -129,7 +129,7 @@
                     "w": 250,
                     "h": 230,
                     "size": 68385,
-                    "mimetype": "image/gif"
+                    "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
@@ -148,11 +148,30 @@
                     "w": 233,
                     "h": 250,
                     "size": 80255,
-                    "mimetype": "image/gif"
+                    "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
             "id": "sha256:35ce41dcdc0632bdbc22ab8a12455b7cb92bd41768df50992e8fc4bd89deb01c"
+        },
+        {
+            "body": "Працюю над цим!",
+            "url": "mxc://matrix.ranok.cc/HcJVmUAmDEqRzuffAJBAAUok",
+            "info": {
+                "w": 211,
+                "h": 250,
+                "size": 45868,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/HcJVmUAmDEqRzuffAJBAAUok",
+                "thumbnail_info": {
+                    "w": 211,
+                    "h": 250,
+                    "size": 45868,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a1851e4a6d93fc8b4b0f4cf357eb80fc533c31d3e2fe4c630418763774791027"
         }
 
     ]
