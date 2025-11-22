@@ -115,6 +115,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:556ac2c5ac9155c59fbf7d3486c1f96472ef643b65601fcdffc8fe21ce97b0d3"
+        },
+        {
+            "body": "CyBeR SeCuRiTy!!11!!",
+            "url": "mxc://matrix.ranok.cc/LHrFylKmXSVCaxHPlYWfUveb",
+            "info": {
+                "w": 250,
+                "h": 230,
+                "size": 68385,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LHrFylKmXSVCaxHPlYWfUveb",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 230,
+                    "size": 68385,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:3ea0a6ed8dba7f185226f15bac9bbfe0a72a864b3294841bf1b3521da32cbf5d"
+        },
+        {
+            "body": "Its too smool!",
+            "url": "mxc://matrix.ranok.cc/kfJoyqoiWIHbuPFcngkYZHsZ",
+            "info": {
+                "w": 233,
+                "h": 250,
+                "size": 80255,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/kfJoyqoiWIHbuPFcngkYZHsZ",
+                "thumbnail_info": {
+                    "w": 233,
+                    "h": 250,
+                    "size": 80255,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:35ce41dcdc0632bdbc22ab8a12455b7cb92bd41768df50992e8fc4bd89deb01c"
         }
 
     ]
