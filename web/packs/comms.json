@@ -343,6 +343,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:4095274f61114b89709eeec84ec30f72ce6fb7d59064480094018035e67d6dfe"
+        },
+        {
+            "body": "Якщо ти бачиш цю наліпку, Кріс заслуговує на відпустку",
+            "url": "mxc://matrix.ranok.cc/lBnxZnPdwNEQoljPKQxiMJnY",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 39079,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/lBnxZnPdwNEQoljPKQxiMJnY",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 39079,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:3c7d942ba95972c0b2f1cbceda32ca469cc0ab892047074af19fdcefcf31fbdc"
         }
 
 
