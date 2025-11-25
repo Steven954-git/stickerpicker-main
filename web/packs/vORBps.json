@@ -571,6 +571,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:3558b0c71a07223ba1e38c48c2ae18b8e6bd9bb15649c007f8d889737af362de"
+        },
+        {
+            "body": "Splinter",
+            "url": "mxc://matrix.ranok.cc/iJXJhCrQCpJzsjuzyfaNUSaH",
+            "info": {
+                "w": 199,
+                "h": 250,
+                "size": 58154,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/iJXJhCrQCpJzsjuzyfaNUSaH",
+                "thumbnail_info": {
+                    "w": 199,
+                    "h": 250,
+                    "size": 58154,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:0406c2b52fc010dd5a9469b1222e4b637b951293b83e70f6d27ddce2182bdbf9"
         }
 
 
