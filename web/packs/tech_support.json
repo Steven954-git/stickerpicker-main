@@ -3,7 +3,7 @@
     "id": "tech_support-stickers",
     "stickers": [
         {
-            "body": "Робота триває",
+            "body": "🔧 Робота триває",
             "url": "mxc://matrix.ranok.cc/ivKqfNzeFmDLFtzlBBAfiOKm",
             "info": {
                 "w": 245,
@@ -22,7 +22,7 @@
             "id": "sha256:fd677cf99ca9f2176317070983706beb1674ae66618b4a64de3ba7a862302818"
         },
         {
-            "body": "Нове голосове повідомлення",
+            "body": "📄 Нове голосове повідомлення 📄",
             "url": "mxc://matrix.ranok.cc/SVEimHSeuukMDADVlpxqlmrQ",
             "info": {
                 "w": 265,
@@ -41,7 +41,7 @@
             "id": "sha256:d18bb398294d97dfeacbd5e02ff9c10e91612bd11960e35a08848d4bcb100447"
         },
         {
-            "body": "Палець вниз",
+            "body": "Палець вниз 👎",
             "url": "mxc://matrix.ranok.cc/UuzudBVKyfAuQJtsGgCIDqtL",
             "info": {
                 "w": 227,
@@ -60,7 +60,7 @@
             "id": "sha256:8a76e2d0dded246a10ff6ee44ed983a478c7d9c9300cac65161520450984ff7e"
         },
         {
-            "body": "Палець догори",
+            "body": "👍 Палець догори",
             "url": "mxc://matrix.ranok.cc/QKgXmRPvQlncSEfRMOjYXxMB",
             "info": {
                 "w": 244,
@@ -79,7 +79,7 @@
             "id": "sha256:8237350824a480fd2d3285013c0daf1c5ec43090455cd7e3b427242fde920843"
         },
         {
-            "body": "Fallout bomb",
+            "body": "Fallout bomb ☢️💣",
             "url": "mxc://matrix.ranok.cc/QXkngLQkrLqfwZqWrELCvFaw",
             "info": {
                 "w": 250,
@@ -98,7 +98,7 @@
             "id": "sha256:2b67b4df1e964b531c184caa73bea74738beb3823e27267634c181a2b94b3f08"
         },
         {
-            "body": "Тримаю",
+            "body": "Тримаю ✊",
             "url": "mxc://matrix.ranok.cc/JbUOrQjlxVACURWsIeWtPRZc",
             "info": {
                 "w": 230,
@@ -117,7 +117,7 @@
             "id": "sha256:556ac2c5ac9155c59fbf7d3486c1f96472ef643b65601fcdffc8fe21ce97b0d3"
         },
         {
-            "body": "CyBeR SeCuRiTy!!11!!",
+            "body": "🤦‍♂️ CyBeR SeCuRiTy!!11!!",
             "url": "mxc://matrix.ranok.cc/LHrFylKmXSVCaxHPlYWfUveb",
             "info": {
                 "w": 250,
@@ -136,7 +136,7 @@
             "id": "sha256:3ea0a6ed8dba7f185226f15bac9bbfe0a72a864b3294841bf1b3521da32cbf5d"
         },
         {
-            "body": "Its too smool!",
+            "body": "🔍 Its too smool!",
             "url": "mxc://matrix.ranok.cc/kfJoyqoiWIHbuPFcngkYZHsZ",
             "info": {
                 "w": 233,
@@ -155,7 +155,7 @@
             "id": "sha256:35ce41dcdc0632bdbc22ab8a12455b7cb92bd41768df50992e8fc4bd89deb01c"
         },
         {
-            "body": "Працюю над цим!",
+            "body": "⚙️ Працюю над цим!",
             "url": "mxc://matrix.ranok.cc/HcJVmUAmDEqRzuffAJBAAUok",
             "info": {
                 "w": 211,
@@ -174,7 +174,7 @@
             "id": "sha256:a1851e4a6d93fc8b4b0f4cf357eb80fc533c31d3e2fe4c630418763774791027"
         },
         {
-            "body": "wtf?",
+            "body": "🤨💬 wtf?",
             "url": "mxc://matrix.ranok.cc/FXLiNIwiAyhAaNJmjHrflmEb",
             "info": {
                 "w": 250,
@@ -193,7 +193,7 @@
             "id": "sha256:428729df578ed23055e70eb4173afc9bd90543b2456683cea12d2082aee55a65"
         },
         {
-            "body": "Shocked!",
+            "body": "😲 Shocked!",
             "url": "mxc://matrix.ranok.cc/LrswWDJuGMGOAlRzbLnBbAXt",
             "info": {
                 "w": 250,
