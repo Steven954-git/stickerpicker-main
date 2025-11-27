@@ -590,6 +590,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:0406c2b52fc010dd5a9469b1222e4b637b951293b83e70f6d27ddce2182bdbf9"
+        },
+        {
+            "body": "💤 УСТАВ 😴",
+            "url": "mxc://matrix.ranok.cc/krqMgYNJBZaLauQsTrOSDHYR",
+            "info": {
+                "w": 250,
+                "h": 237,
+                "size": 69550,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/krqMgYNJBZaLauQsTrOSDHYR",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 237,
+                    "size": 69550,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:493c5e087d4e4c5764700eccb15ae6766d7d705aca123a72b8a36cd8eb3a0a1d"
         }
 
 
