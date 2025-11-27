@@ -123,7 +123,7 @@
                 "w": 250,
                 "h": 230,
                 "size": 68385,
-                "mimetype": "image/gif",
+                "mimetype": "image/png",
                 "thumbnail_url": "mxc://matrix.ranok.cc/LHrFylKmXSVCaxHPlYWfUveb",
                 "thumbnail_info": {
                     "w": 250,
@@ -142,7 +142,7 @@
                 "w": 233,
                 "h": 250,
                 "size": 80255,
-                "mimetype": "image/gif",
+                "mimetype": "image/png",
                 "thumbnail_url": "mxc://matrix.ranok.cc/kfJoyqoiWIHbuPFcngkYZHsZ",
                 "thumbnail_info": {
                     "w": 233,
@@ -161,7 +161,7 @@
                 "w": 211,
                 "h": 250,
                 "size": 45868,
-                "mimetype": "image/gif",
+                "mimetype": "image/png",
                 "thumbnail_url": "mxc://matrix.ranok.cc/HcJVmUAmDEqRzuffAJBAAUok",
                 "thumbnail_info": {
                     "w": 211,
@@ -172,6 +172,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:a1851e4a6d93fc8b4b0f4cf357eb80fc533c31d3e2fe4c630418763774791027"
+        },
+        {
+            "body": "wtf?",
+            "url": "mxc://matrix.ranok.cc/FXLiNIwiAyhAaNJmjHrflmEb",
+            "info": {
+                "w": 250,
+                "h": 197,
+                "size": 91785,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/FXLiNIwiAyhAaNJmjHrflmEb",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 197,
+                    "size": 91785,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:428729df578ed23055e70eb4173afc9bd90543b2456683cea12d2082aee55a65"
+        },
+        {
+            "body": "Shocked!",
+            "url": "mxc://matrix.ranok.cc/LrswWDJuGMGOAlRzbLnBbAXt",
+            "info": {
+                "w": 250,
+                "h": 180,
+                "size": 64036,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LrswWDJuGMGOAlRzbLnBbAXt",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 180,
+                    "size": 64036,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:4dd6e139fe7c23818df96e59d43d0e3598aea272adde532e4d0e6b90a36ef5e8"
         }
 
     ]
