@@ -153,6 +153,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:648725fdec69c89865b285c0a8d102b100dbbd379051e43639973504d6debb84"
+        },
+        {
+            "body": "Подяка 🤜🤛",
+            "url": "mxc://matrix.ranok.cc/iCrJmXmVJbivoBIhreoHaCcn",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 35655,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/iCrJmXmVJbivoBIhreoHaCcn",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 35655,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:b365a430587db02875e3c634b2059ad1ccb21dcab21ced738396f245803ca397"
         }
 
 
