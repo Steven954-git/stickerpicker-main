@@ -345,6 +345,25 @@
             "id": "sha256:4095274f61114b89709eeec84ec30f72ce6fb7d59064480094018035e67d6dfe"
         },
         {
+            "body": "ТАК, БЛЄТ!",
+            "url": "mxc://matrix.ranok.cc/ETJQFRdrJGGIdazvICIIWGBG",
+            "info": {
+                "w": 250,
+                "h": 195,
+                "size": 53159,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/ETJQFRdrJGGIdazvICIIWGBG",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 195,
+                    "size": 53159,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:c58a1e785538e63ef979c51c205f0b602a7c9bb7bdcf26a9787b04d31eb868d5"
+        },
+        {
             "body": "Якщо ти бачиш цю наліпку, Кріс заслуговує на відпустку",
             "url": "mxc://matrix.ranok.cc/MerExruMBNUiBRKkRZEinEAs",
             "info": {
