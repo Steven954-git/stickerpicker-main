@@ -286,6 +286,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:bb74a250d1d8ad7dc5a4e27d9bf41f6f13b8c424a1df4fa4216f2b748901e098"
+        },
+        {
+            "body": "FPV Sniper",
+            "url": "mxc://matrix.ranok.cc/wnHFMIKGaDcNqiROhwnyMHYm",
+            "info": {
+                "w": 250,
+                "h": 211,
+                "size": 64581,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/wnHFMIKGaDcNqiROhwnyMHYm",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 211,
+                    "size": 64581,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:db7f8604bb800a675857a79d1ed020f4461905170cbf99c67f09164450fab410"
+        },
+        {
+            "body": "FPV Sniper",
+            "url": "mxc://matrix.ranok.cc/ShJgbfaqrdKTNnOcIyWVHJve",
+            "info": {
+                "w": 250,
+                "h": 218,
+                "size": 47479,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/ShJgbfaqrdKTNnOcIyWVHJve",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 218,
+                    "size": 47479,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:27d09b1ecb69e3246346eb238f9c33c6c628e644d5bf8785ce72a1f93411d459"
         }
 
     ]
