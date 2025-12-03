@@ -210,6 +210,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:4dd6e139fe7c23818df96e59d43d0e3598aea272adde532e4d0e6b90a36ef5e8"
+        },
+        {
+            "body": "💪 Сильний!",
+            "url": "mxc://matrix.ranok.cc/aoqkCvKACvmPUehAHtbPBkgb",
+            "info": {
+                "w": 218,
+                "h": 250,
+                "size": 59062,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/aoqkCvKACvmPUehAHtbPBkgb",
+                "thumbnail_info": {
+                    "w": 218,
+                    "h": 250,
+                    "size": 59062,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:3db784c801cb0fe6ab5c9008fb6f25550a9f69e0d2624a50f25a0564aeaa926a"
+        },
+        {
+            "body": "😓💤 Слабкий!",
+            "url": "mxc://matrix.ranok.cc/zzPKApzZoCNfLcmCNySHRWps",
+            "info": {
+                "w": 164,
+                "h": 250,
+                "size": 48495,
+                "mimetype": "image/gif",
+                "thumbnail_url": "mxc://matrix.ranok.cc/zzPKApzZoCNfLcmCNySHRWps",
+                "thumbnail_info": {
+                    "w": 164,
+                    "h": 250,
+                    "size": 48495,
+                    "mimetype": "image/gif"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:e0ecd9f331e85ce2be0febe2a4002371e342727975ff2363b424f80d12ad74b9"
         }
 
     ]
