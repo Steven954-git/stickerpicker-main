@@ -218,13 +218,13 @@
                 "w": 218,
                 "h": 250,
                 "size": 59062,
-                "mimetype": "image/gif",
+                "mimetype": "image/png",
                 "thumbnail_url": "mxc://matrix.ranok.cc/aoqkCvKACvmPUehAHtbPBkgb",
                 "thumbnail_info": {
                     "w": 218,
                     "h": 250,
                     "size": 59062,
-                    "mimetype": "image/gif"
+                    "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
@@ -237,17 +237,55 @@
                 "w": 164,
                 "h": 250,
                 "size": 48495,
-                "mimetype": "image/gif",
+                "mimetype": "image/png",
                 "thumbnail_url": "mxc://matrix.ranok.cc/zzPKApzZoCNfLcmCNySHRWps",
                 "thumbnail_info": {
                     "w": 164,
                     "h": 250,
                     "size": 48495,
-                    "mimetype": "image/gif"
+                    "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
             "id": "sha256:e0ecd9f331e85ce2be0febe2a4002371e342727975ff2363b424f80d12ad74b9"
+        },
+        {
+            "body": "Чад/Альфа-тип 😎💪",
+            "url": "mxc://matrix.ranok.cc/UWuSoFPZHmNFCvWsJARxwAqV",
+            "info": {
+                "w": 133,
+                "h": 142,
+                "size": 33129,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/UWuSoFPZHmNFCvWsJARxwAqV",
+                "thumbnail_info": {
+                    "w": 133,
+                    "h": 142,
+                    "size": 33129,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:bf7f23e5ceaf9c43e1426b93a7429c263361d071381e4f5bf27899663993f7e9"
+        },
+        {
+            "body": "😭 Дівственник",
+            "url": "mxc://matrix.ranok.cc/QCaxNropwVCXzyDGmLGSobPx",
+            "info": {
+                "w": 131,
+                "h": 142,
+                "size": 24600,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/QCaxNropwVCXzyDGmLGSobPx",
+                "thumbnail_info": {
+                    "w": 133,
+                    "h": 142,
+                    "size": 24600,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:bb74a250d1d8ad7dc5a4e27d9bf41f6f13b8c424a1df4fa4216f2b748901e098"
         }
 
     ]
