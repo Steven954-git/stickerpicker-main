@@ -6,7 +6,8 @@
     "comms.json",
     "specpsc.json",
     "pariot.json",
-    "tech_support.json"
+    "tech_support.json",
+    "games.json"
   ],
   "homeserver_url": "https://matrix.ranok.cc"
 }
