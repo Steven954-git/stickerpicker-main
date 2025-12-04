@@ -381,6 +381,139 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:3c7d942ba95972c0b2f1cbceda32ca469cc0ab892047074af19fdcefcf31fbdc"
+        },
+        {
+            "body": "Замовкни й забери мої гроші! Shut up and take my money!",
+            "url": "mxc://matrix.ranok.cc/WagRIUPbXcYMnMkfxxVZlFzV",
+            "info": {
+                "w": 250,
+                "h": 167,
+                "size": 45001,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/WagRIUPbXcYMnMkfxxVZlFzV",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 167,
+                    "size": 45001,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:4fb1cdf8d59b02619e64ef5bdc39a448bb4ae5fbc0d9684f2cd411a84d944f42"
+        },
+        {
+            "body": "Шо, опять?",
+            "url": "mxc://matrix.ranok.cc/jebOJuHymtrDoMFtOYUyizAY",
+            "info": {
+                "w": 250,
+                "h": 174,
+                "size": 45001,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/jebOJuHymtrDoMFtOYUyizAY",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 174,
+                    "size": 45001,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:2ffe558fc924e618a675697953f51c8d485649a5eb68cd2cf9152e24c031f880"
+        },
+        {
+            "body": "Ну ти заходь, якшо шо...",
+            "url": "mxc://matrix.ranok.cc/HxIvPBwlcIgjCZWBsomQmwwd",
+            "info": {
+                "w": 250,
+                "h": 146,
+                "size": 65150,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/HxIvPBwlcIgjCZWBsomQmwwd",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 146,
+                    "size": 65150,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:8b3c0ee7752ffb75f9a20b3e5851aac5a04fefa0884e60f4fa755e40895cb62d"
+        },
+        {
+            "body": "Приховуй біль",
+            "url": "mxc://matrix.ranok.cc/LtDSMtDxqHqgLQIOQGMXDshW",
+            "info": {
+                "w": 250,
+                "h": 206,
+                "size": 60584,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LtDSMtDxqHqgLQIOQGMXDshW",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 206,
+                    "size": 60584,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:84688f5531dbe7fca082b407b03bf944028ddf3366ac0b263e7c0f7bad0f0164"
+        },
+        {
+            "body": "Майбутнє вже настало. The future is now.",
+            "url": "mxc://matrix.ranok.cc/vJfNmTeJzCyIOBeZJrpVckTT",
+            "info": {
+                "w": 250,
+                "h": 154,
+                "size": 61636,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/vJfNmTeJzCyIOBeZJrpVckTT",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 154,
+                    "size": 61636,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:bcf5b686656bde2420052c2cf240b39bfb71d6c1603a46494467bbb65695e055"
+        },
+        {
+            "body": "I`ll be back. Terminator",
+            "url": "mxc://matrix.ranok.cc/EZrZBSUOHkArSIulixCxmqco",
+            "info": {
+                "w": 171,
+                "h": 250,
+                "size": 60831,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/EZrZBSUOHkArSIulixCxmqco",
+                "thumbnail_info": {
+                    "w": 171,
+                    "h": 250,
+                    "size": 60831,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:273ebd7703c25d6625dd928f5a4c1cafab4dee1d708224da2138b0ab4d589886"
+        },
+        {
+            "body": "групово трахнули",
+            "url": "mxc://matrix.ranok.cc/ExcPlrxKpbLeSYlZQbcEXPqI",
+            "info": {
+                "w": 250,
+                "h": 170,
+                "size": 61279,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/ExcPlrxKpbLeSYlZQbcEXPqI",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 170,
+                    "size": 61279,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:d67c7960675f45b36df570391e0dd768b4b4a05779f61015a9251a9982b45158"
         }
 
 
