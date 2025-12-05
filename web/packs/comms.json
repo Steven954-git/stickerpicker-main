@@ -514,6 +514,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:d67c7960675f45b36df570391e0dd768b4b4a05779f61015a9251a9982b45158"
+        },
+        {
+            "body": "Я на нараді!",
+            "url": "mxc://matrix.ranok.cc/xflWRRyFimNgQpKgsScCqbSa",
+            "info": {
+                "w": 450,
+                "h": 193,
+                "size": 28017,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/xflWRRyFimNgQpKgsScCqbSa",
+                "thumbnail_info": {
+                    "w": 450,
+                    "h": 193,
+                    "size": 28017,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:2afedcf7c2dc6ad5a382c6fb1e1dbb7be429fd418f22dcb97c8287e030c6b463"
         }
 
 
