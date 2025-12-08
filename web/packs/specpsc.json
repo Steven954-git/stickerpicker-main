@@ -609,10 +609,45 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:493c5e087d4e4c5764700eccb15ae6766d7d705aca123a72b8a36cd8eb3a0a1d"
+        },
+        {
+            "body": "Тайлер де зарплата?!!!",
+            "url": "mxc://matrix.ranok.cc/dVlNAUlQJegCGJjoYqEvqTBV",
+            "info": {
+                "w": 238,
+                "h": 238,
+                "size": 62095,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/dVlNAUlQJegCGJjoYqEvqTBV",
+                "thumbnail_info": {
+                    "w": 238,
+                    "h": 238,
+                    "size": 62095,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a6645f6676934b30d82d0dfc6908c1943a7303a02e77568977689c35ad008136"
+        },
+        {
+            "body": "Шо ти знаєш про вигорання?",
+            "url": "mxc://matrix.ranok.cc/eLJOrGUaSYRlbmDNItfVFeRO",
+            "info": {
+                "w": 250,
+                "h": 223,
+                "size": 45235,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/eLJOrGUaSYRlbmDNItfVFeRO",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 223,
+                    "size": 45235,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:f2840f3e857fb6f4066c8adcff216ed0e2d60ae198f2a19e6003c9aca37a4e9d"
         }
-
-
-
 
     ]
 }
