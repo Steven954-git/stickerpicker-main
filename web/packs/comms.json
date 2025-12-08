@@ -383,6 +383,25 @@
             "id": "sha256:3c7d942ba95972c0b2f1cbceda32ca469cc0ab892047074af19fdcefcf31fbdc"
         },
         {
+            "body": "Xеппі каже НІ!",
+            "url": "mxc://matrix.ranok.cc/oAwvxnnKgBdYGKtImqtzpwUT",
+            "info": {
+                "w": 399,
+                "h": 350,
+                "size": 95527,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/oAwvxnnKgBdYGKtImqtzpwUT",
+                "thumbnail_info": {
+                    "w": 399,
+                    "h": 350,
+                    "size": 95527,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:027cf61fade597fee01ecd9a2ad421ff3567ca973fbde1f29e4450ca3b830ce0"
+        },
+        {
             "body": "Замовкни й забери мої гроші! Shut up and take my money!",
             "url": "mxc://matrix.ranok.cc/WagRIUPbXcYMnMkfxxVZlFzV",
             "info": {
