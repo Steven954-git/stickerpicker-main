@@ -497,63 +497,6 @@
             "id": "sha256:514f25fa6ad1b4c34b8239623095fe62ebd1a3f6967c19e57b3c726b2a4cf145"
         },
         {
-            "body": "📼 Бумбокс",
-            "url": "mxc://matrix.ranok.cc/EJBGbHGaMPtwXOXjuoHNCHqd",
-            "info": {
-                "w": 151,
-                "h": 250,
-                "size": 44247,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/EJBGbHGaMPtwXOXjuoHNCHqd",
-                "thumbnail_info": {
-                    "w": 151,
-                    "h": 250,
-                    "size": 44247,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:1a37f760fd6aab5eff2ac2c9535aafeca66304e42a776de2959efd51a30607bc"
-        },
-        {
-            "body": "🪖 Такий солдат з’являється раз на тисячу років",
-            "url": "mxc://matrix.ranok.cc/cqIcSFSvVHJaXbShoOrBAVds",
-            "info": {
-                "w": 169,
-                "h": 250,
-                "size": 72035,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/cqIcSFSvVHJaXbShoOrBAVds",
-                "thumbnail_info": {
-                    "w": 169,
-                    "h": 250,
-                    "size": 72035,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:9a3cfafcfc615f308c3763f3bd0e81035d92e20d82d15c93ed848579c6b6da5c"
-        },
-        {
-            "body": "🏃‍♂️⏱️ 2 секунди до паркану",
-            "url": "mxc://matrix.ranok.cc/NTEdxrIlSkhNnfLJrowdBNLK",
-            "info": {
-                "w": 250,
-                "h": 174,
-                "size": 67998,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/NTEdxrIlSkhNnfLJrowdBNLK",
-                "thumbnail_info": {
-                    "w": 250,
-                    "h": 174,
-                    "size": 67998,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:718a02ca3db13f15886e64dab30588a1c7bf41cc5c7a7a33f7b06bdfee3a174c"
-        },
-        {
             "body": "🔹 Splinter",
             "url": "mxc://matrix.ranok.cc/cIMJuhjphRbeJWHKuacSYbfY",
             "info": {
