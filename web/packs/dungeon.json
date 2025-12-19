@@ -1,0 +1,28 @@
+{
+    "title": "Підземелля",
+    "id": "dungeon-stickers",
+    "stickers": [
+        {
+            "body": "3 ОРБ Шеврон",
+            "url": "mxc://matrix.ranok.cc/gNRbUWdnwYEpTnoHyaLILObU",
+            "info": {
+                "w": 218,
+                "h": 250,
+                "size": 72239,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/gNRbUWdnwYEpTnoHyaLILObU",
+                "thumbnail_info": {
+                    "w": 218,
+                    "h": 250,
+                    "size": 72239,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:7dedbc09b6609fa7b03e9cf7c051b8e2ee65098fc63ea5f2be9fafca9b418ced"
+        }
+        
+    ]
+}
+
+
