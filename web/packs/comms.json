@@ -571,6 +571,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:578b1e028d87d51f1094c5341fdad1dbf8239a1898d4a86a557bdec5f7f0d926"
+        },
+        {
+            "body": "🚬",
+            "url": "mxc://matrix.ranok.cc/DdPZMsEPZjoVLnctEisaXiax",
+            "info": {
+                "w": 250,
+                "h": 163,
+                "size": 71113,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/DdPZMsEPZjoVLnctEisaXiax",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 163,
+                    "size": 71113,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:7e844baafeb278056c10cb87f3efacd859b7baec0b4677e720939bc334d63fbc"
         }
 
 
@@ -578,4 +597,3 @@
 
     ]
 }
-
