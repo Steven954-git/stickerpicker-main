@@ -590,6 +590,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:f2840f3e857fb6f4066c8adcff216ed0e2d60ae198f2a19e6003c9aca37a4e9d"
+        },
+        {
+            "body": "Шо ти знаєш про вигорання?",
+            "url": "mxc://matrix.ranok.cc/wHFJPZsLnIwzAEOOZAtlwUTZ",
+            "info": {
+                "w": 250,
+                "h": 242,
+                "size": 71442,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/wHFJPZsLnIwzAEOOZAtlwUTZ",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 242,
+                    "size": 71442,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:873ea3354513800558096f3df3fb314d93c85cbb56340aab84bce5bf4108ac0e"
         }
 
     ]
