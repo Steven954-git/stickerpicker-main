@@ -593,22 +593,22 @@
         },
         {
             "body": "...",
-            "url": "mxc://matrix.ranok.cc/wHFJPZsLnIwzAEOOZAtlwUTZ",
+            "url": "mxc://matrix.ranok.cc/BJdXgMFMLRupujFdJQlNQJec",
             "info": {
                 "w": 250,
-                "h": 242,
-                "size": 71442,
+                "h": 244,
+                "size": 56202,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/wHFJPZsLnIwzAEOOZAtlwUTZ",
+                "thumbnail_url": "mxc://matrix.ranok.cc/BJdXgMFMLRupujFdJQlNQJec",
                 "thumbnail_info": {
                     "w": 250,
-                    "h": 242,
-                    "size": 71442,
+                    "h": 244,
+                    "size": 56202,
                     "mimetype": "image/png"
                 }
             },
             "msgtype": "m.sticker",
-            "id": "sha256:873ea3354513800558096f3df3fb314d93c85cbb56340aab84bce5bf4108ac0e"
+            "id": "sha256:5161709a751ea8bf9911aa886bfc6e7391740ecc1d729efc131429a6f7936950"
         }
 
     ]
