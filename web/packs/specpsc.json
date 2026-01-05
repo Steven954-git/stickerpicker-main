@@ -590,25 +590,6 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:f2840f3e857fb6f4066c8adcff216ed0e2d60ae198f2a19e6003c9aca37a4e9d"
-        },
-        {
-            "body": "...",
-            "url": "mxc://matrix.ranok.cc/BJdXgMFMLRupujFdJQlNQJec",
-            "info": {
-                "w": 250,
-                "h": 244,
-                "size": 56202,
-                "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/BJdXgMFMLRupujFdJQlNQJec",
-                "thumbnail_info": {
-                    "w": 250,
-                    "h": 244,
-                    "size": 56202,
-                    "mimetype": "image/png"
-                }
-            },
-            "msgtype": "m.sticker",
-            "id": "sha256:5161709a751ea8bf9911aa886bfc6e7391740ecc1d729efc131429a6f7936950"
         }
 
     ]
