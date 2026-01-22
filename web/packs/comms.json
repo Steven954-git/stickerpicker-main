@@ -609,6 +609,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:d0be930e2a6a192c6b8fb6c4c045ce8b4d186725af82b9b4e2dcb9d6ca0d9ee1"
+        },
+        {
+            "body": "Mur, mur",
+            "url": "mxc://matrix.ranok.cc/JqojCfMjtVMpUxPKWEiEgdyQ",
+            "info": {
+                "w": 234,
+                "h": 250,
+                "size": 85061,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/JqojCfMjtVMpUxPKWEiEgdyQ",
+                "thumbnail_info": {
+                    "w": 234,
+                    "h": 250,
+                    "size": 85061,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:d0be930e2a6a192c6b8fb6c4c045ce8b4d186725af82b9b4e2dcb9d6ca0d9ee1"
+        },
+        {
+            "body": "Mur, mur",
+            "url": "mxc://matrix.ranok.cc/vczgnwgqXyLQCCuKETnBvWWO",
+            "info": {
+                "w": 250,
+                "h": 202,
+                "size": 42779,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/vczgnwgqXyLQCCuKETnBvWWO",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 202,
+                    "size": 42779,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:f4f91e567dd8137e2870c5369a0a32dd0212cebac75922e7e175cb11c0863533"
         }
 
 

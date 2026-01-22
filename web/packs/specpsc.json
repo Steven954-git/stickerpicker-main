@@ -590,6 +590,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:f2840f3e857fb6f4066c8adcff216ed0e2d60ae198f2a19e6003c9aca37a4e9d"
+        },
+        {
+            "body": "Шо?",
+            "url": "mxc://matrix.ranok.cc/qiIuEDKrvoxsSGHidrUlvnfJ",
+            "info": {
+                "w": 250,
+                "h": 178,
+                "size": 47246,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/qiIuEDKrvoxsSGHidrUlvnfJ",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 178,
+                    "size": 47246,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:f70fcf39d6e634a89532f8f534d028b062dc4d035c3d2e4f3569e50045a04937"
+        },
+        {
+            "body": "--",
+            "url": "mxc://matrix.ranok.cc/IBVYnZLsLTLATIBbMkoluzOA",
+            "info": {
+                "w": 250,
+                "h": 178,
+                "size": 47246,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/IBVYnZLsLTLATIBbMkoluzOA",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 178,
+                    "size": 47246,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:b1d688e71b84ba5b019e780577eecfb71aced0533f5bb61d6f924a4c40398768"
         }
 
     ]
