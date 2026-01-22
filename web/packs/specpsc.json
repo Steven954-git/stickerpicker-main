@@ -628,6 +628,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:b1d688e71b84ba5b019e780577eecfb71aced0533f5bb61d6f924a4c40398768"
+        },
+        {
+            "body": "Де зарплата?",
+            "url": "mxc://matrix.ranok.cc/hIpFxpDcedACEikfBGZfaZMT",
+            "info": {
+                "w": 249,
+                "h": 250,
+                "size": 67607,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/hIpFxpDcedACEikfBGZfaZMT",
+                "thumbnail_info": {
+                    "w": 249,
+                    "h": 250,
+                    "size": 67607,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:9c48e4bd6bc92f9c967c4cbc8326a388077400fcbd1ab689e609b8d639b924f8"
+        },
+        {
+            "body": "Даа… канєшно",
+            "url": "mxc://matrix.ranok.cc/XdqxPyAHJOQLRoDCCjpAfZGn",
+            "info": {
+                "w": 250,
+                "h": 225,
+                "size": 66273,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/XdqxPyAHJOQLRoDCCjpAfZGn",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 225,
+                    "size": 66273,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:6efc21232b24bda9dbce7ee0094e232afeb300f775c6039356f3c0b18723623d"
         }
 
     ]
