@@ -172,6 +172,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:b365a430587db02875e3c634b2059ad1ccb21dcab21ced738396f245803ca397"
+        },
+        {
+            "body": "Джанго, де обід?",
+            "url": "mxc://matrix.ranok.cc/DyyPERJYVLDNgLpeeQxuaMQB",
+            "info": {
+                "w": 238,
+                "h": 250,
+                "size": 46149,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/DyyPERJYVLDNgLpeeQxuaMQB",
+                "thumbnail_info": {
+                    "w": 238,
+                    "h": 250,
+                    "size": 46149,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:a7c32df8c5598d3f46ef0639cbb3103ad86784ba359ffffbac409a01de741d63"
         }
 
 
