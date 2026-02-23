@@ -666,6 +666,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:6efc21232b24bda9dbce7ee0094e232afeb300f775c6039356f3c0b18723623d"
+        },
+        {
+            "body": "Нагодуй!",
+            "url": "mxc://matrix.ranok.cc/LIckXJBokbCNmcomoTIKoBXq",
+            "info": {
+                "w": 250,
+                "h": 237,
+                "size": 60015,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/LIckXJBokbCNmcomoTIKoBXq",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 237,
+                    "size": 60015,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:4ad4ad759ec8acf32890b55bf29d50a93ec59c00d3f337e818dd0f7d0de14d8d"
+        },
+        {
+            "body": "Який пошук?",
+            "url": "mxc://matrix.ranok.cc/djcIhFIiJvbOUrvdwoeKvHTr",
+            "info": {
+                "w": 218,
+                "h": 250,
+                "size": 68144,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/djcIhFIiJvbOUrvdwoeKvHTr",
+                "thumbnail_info": {
+                    "w": 218,
+                    "h": 250,
+                    "size": 68144,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:05a3c2d4e3421f0f9e827735037eb9d2da7615f0dcde681399a5e75ff7a6e7ae"
         }
 
     ]
