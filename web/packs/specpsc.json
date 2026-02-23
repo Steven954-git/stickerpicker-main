@@ -704,6 +704,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:05a3c2d4e3421f0f9e827735037eb9d2da7615f0dcde681399a5e75ff7a6e7ae"
+        },
+        {
+            "body": "Де зарплата?",
+            "url": "mxc://matrix.ranok.cc/iAhYJtXrNssMLJmcebFiERQC",
+            "info": {
+                "w": 250,
+                "h": 250,
+                "size": 68144,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/iAhYJtXrNssMLJmcebFiERQC",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 250,
+                    "size": 68144,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:e91d1ed2cd496a808c952a6a7a0880bde9d9e0fa5e4a6259a13e65dd2dc38968"
         }
 
     ]
