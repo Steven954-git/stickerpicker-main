@@ -669,13 +669,13 @@
         },
         {
             "body": "Нагодуй!",
-            "url": "mxc://matrix.ranok.cc/LIckXJBokbCNmcomoTIKoBXq",
+            "url": "mxc://matrix.ranok.cc/IAHxGBtNyGxcEKB54U4zLfQ",
             "info": {
                 "w": 250,
                 "h": 237,
                 "size": 60015,
                 "mimetype": "image/png",
-                "thumbnail_url": "mxc://matrix.ranok.cc/LIckXJBokbCNmcomoTIKoBXq",
+                "thumbnail_url": "mxc://matrix.ranok.cc/IAHxGBtNyGxcEKB54U4zLfQ",
                 "thumbnail_info": {
                     "w": 250,
                     "h": 237,
@@ -684,7 +684,7 @@
                 }
             },
             "msgtype": "m.sticker",
-            "id": "sha256:4ad4ad759ec8acf32890b55bf29d50a93ec59c00d3f337e818dd0f7d0de14d8d"
+            "id": "sha256:068e6802f4561297a47a296366de23eae061bfaa1e3320b0374d92164324ed78"
         },
         {
             "body": "Який пошук?",
