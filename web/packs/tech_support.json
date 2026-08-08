@@ -286,6 +286,44 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:bb74a250d1d8ad7dc5a4e27d9bf41f6f13b8c424a1df4fa4216f2b748901e098"
+        },
+        {
+            "body": "Im from IT, kill me!",
+            "url": "mxc://matrix.ranok.cc/GvFQUNKcqLoRHTqcNXJjedvn",
+            "info": {
+                "w": 586,
+                "h": 557,
+                "size": 363120,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/GvFQUNKcqLoRHTqcNXJjedvn",
+                "thumbnail_info": {
+                    "w": 586,
+                    "h": 557,
+                    "size": 363120,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:6c7649ce610e7b8bbc973132be36a7b438e49c373965cdca2b65186d526c720a"
+        },
+        {
+            "body": "Still waiting...",
+            "url": "mxc://matrix.ranok.cc/geGhypfkNBxnTJcnwpLhegjs",
+            "info": {
+                "w": 250,
+                "h": 204,
+                "size": 49398,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/geGhypfkNBxnTJcnwpLhegjs",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 204,
+                    "size": 49398,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:46031484013c2e6554b6777f2bd31ca165115ff3d01c0b43343e0efe5230c02e"
         }
 
     ]
