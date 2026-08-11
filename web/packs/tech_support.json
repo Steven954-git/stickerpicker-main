@@ -324,6 +324,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:46031484013c2e6554b6777f2bd31ca165115ff3d01c0b43343e0efe5230c02e"
+        },
+        {
+            "body": "Oh shit, here we go again...",
+            "url": "mxc://matrix.ranok.cc/iaenJLHXtwFCMoWSEZzsWeUW",
+            "info": {
+                "w": 400,
+                "h": 246,
+                "size": 123582,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/iaenJLHXtwFCMoWSEZzsWeUW",
+                "thumbnail_info": {
+                    "w": 400,
+                    "h": 246,
+                    "size": 123582,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:85cb8eaec56404021ba7fc6cc52260e0e658b85e42b4cfbc1bddc553de26a657"
         }
 
     ]
