@@ -742,6 +742,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:a8a5d7f927ab67ff11a1c2ded45c88e2fdf9e95ede35b1fe166051ccb16dc738"
+        },
+        {
+            "body": "Дай боже здоровʼя!",
+            "url": "mxc://matrix.ranok.cc/nqEAKiuMVbnwKFTQJyVyiBMo",
+            "info": {
+                "w": 250,
+                "h": 162,
+                "size": 27211,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/nqEAKiuMVbnwKFTQJyVyiBMo",
+                "thumbnail_info": {
+                    "w": 250,
+                    "h": 162,
+                    "size": 27211,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:849abc93e5f8126bedf9698147a0225ff26e699522cf85df706517912736221a"
         }
 
     ]
