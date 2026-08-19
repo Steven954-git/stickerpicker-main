@@ -343,7 +343,27 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:85cb8eaec56404021ba7fc6cc52260e0e658b85e42b4cfbc1bddc553de26a657"
+        },
+        {
+            "body": "ULTRACRINGE",
+            "url": "mxc://matrix.ranok.cc/cPNdWkoywDVORtPiYhNHekbJ",
+            "info": {
+                "w": 350,
+                "h": 65,
+                "size": 6396,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/cPNdWkoywDVORtPiYhNHekbJ",
+                "thumbnail_info": {
+                    "w": 350,
+                    "h": 65,
+                    "size": 6396,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:658de7a8824b19c7ba515c2bea694cc65c5404fac37b47d65ccf4288cba72d7e"
         }
+
 
     ]
 }
