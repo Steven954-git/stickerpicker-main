@@ -362,6 +362,25 @@
             },
             "msgtype": "m.sticker",
             "id": "sha256:658de7a8824b19c7ba515c2bea694cc65c5404fac37b47d65ccf4288cba72d7e"
+        },
+        {
+            "body": "Kris was here!",
+            "url": "mxc://matrix.ranok.cc/RjWaxdTRGoZWbTtVYOlnIKLc",
+            "info": {
+                "w": 350,
+                "h": 250,
+                "size": 117998,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/RjWaxdTRGoZWbTtVYOlnIKLc",
+                "thumbnail_info": {
+                    "w": 350,
+                    "h": 250,
+                    "size": 117998,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:24950e465d13795de37921de2923ac30e5dc8da6bfe812a2df41471a867932f2"
         }
 
 

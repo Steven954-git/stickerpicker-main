@@ -307,6 +307,25 @@
             "id": "sha256:1cc3f2718773a2a92ff43de5cfc3eac46648959d4d12616a9168d405d40397b0"
         },
         {
+            "body": "Kris was here!",
+            "url": "mxc://matrix.ranok.cc/RjWaxdTRGoZWbTtVYOlnIKLc",
+            "info": {
+                "w": 350,
+                "h": 250,
+                "size": 117998,
+                "mimetype": "image/png",
+                "thumbnail_url": "mxc://matrix.ranok.cc/RjWaxdTRGoZWbTtVYOlnIKLc",
+                "thumbnail_info": {
+                    "w": 350,
+                    "h": 250,
+                    "size": 117998,
+                    "mimetype": "image/png"
+                }
+            },
+            "msgtype": "m.sticker",
+            "id": "sha256:24950e465d13795de37921de2923ac30e5dc8da6bfe812a2df41471a867932f2"
+        },
+        {
             "body": "Кока-кола 🥤❤️",
             "url": "mxc://matrix.ranok.cc/acshNVJvHeikqzTvMDHRvxhC",
             "info": {
